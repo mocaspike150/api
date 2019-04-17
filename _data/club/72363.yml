@@ -1,22 +1,10 @@
 --- 
-data: 
-  - 
-    location: 
-      - -88.1433937
-      - 41.7141143
-    mile: 0
-    week: 1
-  - 
-    location: 
-      - -88.1433937
-      - 41.7141143
-    mile: 0
-    week: 2
-  - 
-    location: 
-      - -88.1433937
-      - 41.7141143
-    mile: 0
-    week: 3
-
-name: "ChiRunners 驰"
+- 
+  mile: 0
+  week: 1
+- 
+  mile: 0
+  week: 2
+- 
+  mile: 0
+  week: 3
