@@ -1,0 +1,4 @@
+---
+layout: json
+---
+{{ site.data.chirunners-72363 | jsonify }}
