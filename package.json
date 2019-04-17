@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api",
+  "main": "index.js",
+  "scripts": {
+    "test": "node bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocaspike150/api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mocaspike150/api/issues"
+  },
+  "homepage": "https://github.com/mocaspike150/api#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}

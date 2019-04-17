@@ -1,1 +1,5 @@
 title: MOCA Spike 150 - Running Forward With Our Stories | api
+exclude: 
+- node_modules
+- package.json
+- bin
