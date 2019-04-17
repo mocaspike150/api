@@ -1,4 +1,4 @@
 ---
 layout: json
 ---
-{{ site.data.club.geo.72363 | jsonify }}
+{{ site.data.club.geo['72363'] | jsonify }}
