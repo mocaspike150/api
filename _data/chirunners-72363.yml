@@ -4,7 +4,7 @@ data:
     location: 
       - -88.1433937
       - 41.7141143
-    mile: 1110
+    mile: 0
     week: 1
   - 
     location: 
@@ -16,7 +16,7 @@ data:
     location: 
       - -88.1433937
       - 41.7141143
-    mile: 111
+    mile: 0
     week: 3
 
 name: "ChiRunners 驰"
