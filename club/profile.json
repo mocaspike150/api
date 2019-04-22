@@ -1,0 +1,4 @@
+---
+layout: json
+---
+{{ site.data.club.profile | jsonify }}
