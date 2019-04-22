@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mocaspike150/api#readme",
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "puppeteer": "^1.14.0"
   }
 }
