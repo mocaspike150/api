@@ -26,6 +26,7 @@ const build = (profile, geo) => {
         .then( (res) => {
           let geo_data = res.data
           for( k in profile_data) {
+            let strava = `https://www.strava.com/clubs/${k}`
             if( k in geo_data){
                let geojson = {
                  "type": "FeatureCollection",
@@ -33,11 +34,11 @@ const build = (profile, geo) => {
                }
                let output = JSON.stringify(geojson)
                let fn = `map/club/${k}.geojson`
-               console.log(` - ${profile_data[k].en} ${profile_data[k].cn} [${k}.geojson](${k}.geojson) (edit [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/${k}.yml))`)
+               console.log(` - ${strava} ${profile_data[k].en} ${profile_data[k].cn} [${k}.geojson](${k}.geojson) (edit [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/${k}.yml))`)
                fs.writeFile(`map/club/${k}.geojson`, output, () => {})
             }
             else {
-               console.log(`- ${profile_data[k].en} ${profile_data[k].cn} (create [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/new/master/_data/club/geo/))`)
+               console.log(`- ${strava} ${profile_data[k].en} ${profile_data[k].cn} (create [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/new/master/_data/club/geo/))`)
             }
           }
     })
