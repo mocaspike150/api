@@ -11,7 +11,7 @@ const avatar = (id) => {
   JSDOM.fromURL(url)
     .then( (dom) => {
       const src = dom.window.document.querySelector('img.avatar-img').src;
-      const fn = `club/avatar/${id}.html`;
+      const fn = `_data/club/avatar/${id}.yml`;
       axios.get(src, { responseType: 'arraybuffer' })
        .then( (response) => {
          const data = response.data;
@@ -19,8 +19,8 @@ const avatar = (id) => {
          sharp(buffer).resize({ width: 128, height: 128 })
            .toBuffer()
            .then( (data) => {
-              const html = `<img width="128" heigh="128" src="data:image/png;base64,${data.toString('base64')}"/>`
-              fs.writeFile(fn, html, (error) => {
+              const src = `data:image/png;base64,${data.toString('base64')}`
+              fs.writeFile(fn, JSON.stringify({ src: src }), (error) => {
                 if(error) { console.log(error) }
 		        else { console.log(fn) } 
 			  });
