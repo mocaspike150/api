@@ -15,7 +15,7 @@
  - [x] https://www.strava.com/clubs/147066 IndyChineseRunners 印跑团 [147066.geojson](147066.geojson) (edit [_data/club/geo/147066.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/147066.yml))
  - [x] https://www.strava.com/clubs/155681 DASH 达跑团 [155681.geojson](155681.geojson) (edit [_data/club/geo/155681.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/155681.yml))
  - [x] https://www.strava.com/clubs/157594 Seattle United Runners (SU Runners) 西雅图SU跑团 [157594.geojson](157594.geojson) (edit [_data/club/geo/157594.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/157594.yml))
-- [ ] https://www.strava.com/clubs/176328 MIRun 车城 (create [_data/club/geo/176328.yml](https://github.com/mocaspike150/api/new/master/_data/club/geo/))
+ - [x] https://www.strava.com/clubs/176328 MIRun 车城 [176328.geojson](176328.geojson) (edit [_data/club/geo/176328.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/176328.yml))
 - [ ] https://www.strava.com/clubs/183643 FlyingDragon undefined (create [_data/club/geo/183643.yml](https://github.com/mocaspike150/api/new/master/_data/club/geo/))
 - [ ] https://www.strava.com/clubs/187897 CRIT 多伦多华人跑团 (create [_data/club/geo/187897.yml](https://github.com/mocaspike150/api/new/master/_data/club/geo/))
  - [x] https://www.strava.com/clubs/196102 Greater Memphis Chinese Runners Club (GMCRC) undefined [196102.geojson](196102.geojson) (edit [_data/club/geo/196102.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/196102.yml))
