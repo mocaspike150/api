@@ -45,11 +45,11 @@ const build = (profile, geo) => {
                }
                let output = JSON.stringify(geojson)
                let fn = `map/club/${k}.geojson`
-               console.log(` - ${strava} ${profile_data[k].en} ${profile_data[k].cn} [${k}.geojson](${k}.geojson) (edit [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/${k}.yml))`)
+               console.log(` - [x]${strava} ${profile_data[k].en} ${profile_data[k].cn} [${k}.geojson](${k}.geojson) (edit [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/${k}.yml))`)
                fs.writeFile(`map/club/${k}.geojson`, output, () => {})
             }
             else {
-               console.log(`- ${strava} ${profile_data[k].en} ${profile_data[k].cn} (create [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/new/master/_data/club/geo/))`)
+               console.log(`- [ ] ${strava} ${profile_data[k].en} ${profile_data[k].cn} (create [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/new/master/_data/club/geo/))`)
             }
           }
     })
