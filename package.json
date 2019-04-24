@@ -19,6 +19,8 @@
   "homepage": "https://github.com/mocaspike150/api#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "puppeteer": "^1.14.0"
+    "jsdom": "^15.0.0",
+    "puppeteer": "^1.14.0",
+    "sharp": "^0.22.0"
   }
 }
