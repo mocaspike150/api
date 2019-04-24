@@ -11,7 +11,7 @@ const avatar = (id) => {
   JSDOM.fromURL(url)
     .then( (dom) => {
       const src = dom.window.document.querySelector('img.avatar-img').src;
-      const fn = `_data/club/avatar/${id}.html`;
+      const fn = `club/avatar/${id}.html`;
       axios.get(src, { responseType: 'arraybuffer' })
        .then( (response) => {
          const data = response.data;
