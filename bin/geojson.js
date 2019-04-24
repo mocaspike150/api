@@ -24,7 +24,8 @@ const build = (path) => {
         "features": data[k].map(feature) 
       }
       let output = JSON.stringify(geojson)
-      console.log(output)
+      let fn = `map/club/${k}.geojson`
+      console.log(fn)
       fs.writeFile(`map/club/${k}.geojson`, output, () => {})
     }
   })

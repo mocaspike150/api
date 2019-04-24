@@ -4,7 +4,7 @@
   "description": "api",
   "main": "index.js",
   "scripts": {
-    "test": "node bin/test.js"
+    "geojson": "node bin/geojson.js"
   },
   "repository": {
     "type": "git",
