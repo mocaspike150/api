@@ -33,37 +33,17 @@ const build = (profile, geo) => {
                }
                let output = JSON.stringify(geojson)
                let fn = `map/club/${k}.geojson`
-               console.log(` - ${profile_data[k].en} ${profile_data[k].cn} [${k}.geojson](${k}.geojson) `)
+               console.log(` - ${profile_data[k].en} ${profile_data[k].cn} [${k}.geojson](${k}.geojson) (edit [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/${k}.yml))`)
                fs.writeFile(`map/club/${k}.geojson`, output, () => {})
             }
             else {
-               console.log(` - ${profile_data[k].en} ${profile_data[k].cn} (${k}.geojson) `)
+               console.log(`- ${profile_data[k].en} ${profile_data[k].cn} (create [_data/club/geo/${k}.yml](https://github.com/mocaspike150/api/new/master/_data/club/geo/))`)
             }
           }
     })
   .catch((error) => { console.log(error) });
     })
-
   .catch((error) => { console.log(error) });
-/*
-  axios.get(`${api}/${geo}`)
-  .then( (res) => {
-    let data = res.data
-    for( k in data) {
-      let geojson = {
-        "type": "FeatureCollection",
-        "features": data[k].map(feature) 
-      }
-      let output = JSON.stringify(geojson)
-      let fn = `map/club/${k}.geojson`
-      console.log(` - [${k}.geojson](${k}.geojson) `)
-      fs.writeFile(`map/club/${k}.geojson`, output, () => {})
-    }
-  })
-  .catch((error) => { console.log(error) });
-*/
 }
 
 build(profile, geo)
-
-
