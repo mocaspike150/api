@@ -1,16 +1,17 @@
 start: 2019-05-13
 end: 2019-05-19
 phase: 1
-teams:
+teams: 
   - 
     id: 72363
-    name: ChiRunners 驰
     mile: 364
+    name: "ChiRunners 驰"
   - 
     id: 452045
-    name: Trail Hoppers 山道蚱蜢
     mile: 74
- - 
+    name: "Trail Hoppers 山道蚱蜢"
+  - 
     id: 301632
-    name: 知足常跑， Patuxent athletic league of striders
     mile: 123
+    name: "知足常跑， Patuxent athletic league of striders"
+
