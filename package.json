@@ -4,7 +4,9 @@
   "description": "api",
   "main": "index.js",
   "scripts": {
-    "geojson": "node bin/geojson.js | tee map/club/README.md"
+    "geojson": "node bin/geojson.js | tee map/club/README.md",
+    "avatar": "node bin/avatar.js",
+    "members": "node bin/members.js | tee _data/club/members.yml"
   },
   "repository": {
     "type": "git",
