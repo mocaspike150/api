@@ -2,6 +2,15 @@ start: 2019-07-01
 end: 2019-07-07
 phase: 1
 teams:
-  - 330129
-  - 196102   
-  - 327007
+  - 
+    id: 330129
+    mile: 0
+    name: "飛狐PHIRE"
+  - 
+    id: 196102
+    mile: 0
+    name: "GMCRC"
+  - 
+    id: 327007
+    mile: 0
+    name: "百駿 Bergen Runners"
