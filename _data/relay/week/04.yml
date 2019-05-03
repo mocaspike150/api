@@ -1,8 +1,20 @@
 start: 2019-06-03
 end: 2019-06-09
 phase: 1
-teams:
-  - 197462
-  - 439808
-  - 479503
-  - 175314
+teams: 
+  - 
+    id: 197462
+    mile: 364
+    name: "DEER 鹿跑团"
+  - 
+    id: 439808
+    mile: 74
+    name: "WERun 东奔西跑"
+  - 
+    id: 479503
+    mile: 123
+    name: "三头牛跑吧"
+  - 
+    id: 175314
+    mile: 123
+    name: ""
