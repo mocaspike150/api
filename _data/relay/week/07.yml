@@ -2,6 +2,15 @@ start: 2019-06-24
 end: 2019-06-30
 phase: 1
 teams:
-  - 147066
-  - 481356    
-  - 519388
+  - 
+    id: 147066
+    mile: 0
+    name: "印跑团（Indy Chinese Runners Club）"
+  - 
+    id: 481356
+    mile: 0
+    name: "Nose Hill Running 駜"
+  - 
+    id: 519388
+    mile: 0
+    name: "Princeton Running Team 普林长跑队"
