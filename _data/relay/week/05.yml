@@ -1,7 +1,20 @@
 start: 2019-06-10           
 end: 2019-06-16
 phase: 1
-teams:
-  - 183643
-  - 516025
-  - 176328
+teams: 
+  - 
+    id: 183643
+    mile: 0
+    name: "Long Running Club"
+  - 
+    id: 516025
+    mile: 0
+    name: "北卡蓝嶺飞狐 Flying Foxes"
+  - 
+    id: 176328
+    mile: 0
+    name: "车城MIRun"
+  - 
+    id: 142275
+    mile: 0
+    name: "RED"
