@@ -4,17 +4,17 @@ phase: 1
 teams: 
   - 
     id: 197462
-    mile: 364
+    mile: 0
     name: "DEER 鹿跑团"
   - 
     id: 439808
-    mile: 74
+    mile: 0
     name: "WERun 东奔西跑"
   - 
     id: 479503
-    mile: 123
+    mile: 0
     name: "三头牛跑吧"
   - 
     id: 175314
-    mile: 123
-    name: ""
+    mile: 0
+    name: "勝跑团(Sheng Runners)"
