@@ -2,8 +2,15 @@ start: 2019-07-08
 end: 2019-07-14
 phase: 2
 teams:
-  - 330129
-  - 72363
-  - 452045
-
-   
+  - 
+    id: 330129
+    mile: 0
+    name: "飛狐PHIRE"
+  - 
+    id: 72363
+    mile: 0
+    name: "ChiRunners 驰"
+  - 
+    id: 452045
+    mile: 0
+    name: "Trail Hoppers 山道蚱蜢"
