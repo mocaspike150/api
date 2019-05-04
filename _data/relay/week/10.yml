@@ -1,10 +1,20 @@
-start: 2019-07-15           
+start: 2019-07-15            
 end: 2019-07-21
 phase: 2
 teams:
-  - 479503
-  - 301632
-  - 234023
-  - 175314
-
-   
+  - 
+    id: 479503
+    mile: 0
+    name: "三头牛跑吧"
+  - 
+    id: 301632
+    mile: 0
+    name: "知足常跑， Patuxent athletic league of striders"
+  - 
+    id: 234023
+    mile: 0
+    name: "犇, BEN Running Club"
+  - 
+    id: 175314
+    mile: 0
+    name: "勝跑团(Sheng Runners)"
