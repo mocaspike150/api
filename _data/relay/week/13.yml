@@ -1,7 +1,24 @@
-start: 2019-08-05          
+start:         
+end: 
+phase: 2
+teams:
+  - 
+  - 
+  - 
+
+start: 2019-08-05                   
 end: 2019-08-11
 phase: 2
 teams:
-  - 128445
-  - 155681
-  - 327007
+  - 
+    id: 128445
+    mile: 0
+    name: "BURN Running Club"
+  - 
+    id: 155681
+    mile: 0
+    name: "达跑团DASH"
+  - 
+    id: 327007
+    mile: 0
+    name: "百駿 Bergen Runners"
