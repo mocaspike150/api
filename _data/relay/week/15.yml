@@ -1,8 +1,20 @@
-start: 2019-08-19          
+start: 2019-08-19                         
 end: 2019-08-25
 phase: 2
 teams:
-  - 157594
-  - 481356
-  - 516025
-  - 196102
+  - 
+    id: 157594
+    mile: 0
+    name: "西雅图SU跑团, Seattle United Runners (SU Runners)"
+  - 
+    id: 481356
+    mile: 0
+    name: "Nose Hill Running 駜"
+  - 
+    id: 516025
+    mile: 0
+    name: "北卡蓝嶺飞狐 Flying Foxes"
+  - 
+    id: 196102
+    mile: 0
+    name: "GMCRC"
