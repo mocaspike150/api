@@ -1,8 +1,20 @@
-start: 2019-09-16          
+start: 2019-09-16                                
 end: 2019-09-22
 phase: 3
 teams:
-  - 452045
-  - 157594
-  - 299365
-  - 464836
+  - 
+    id: 452045
+    mile: 0
+    name: "Trail Hoppers 山道蚱蜢"
+  - 
+    id: 157594
+    mile: 0
+    name: "西雅图SU跑团, Seattle United Runners (SU Runners)"
+  - 
+    id: 299365
+    mile: 0
+    name: "明州华人雪狼跑团 Minnesota Chinese Snow Wolves Runner Group"
+  - 
+    id: 464836
+    mile: 0
+    name: "91集训营"
