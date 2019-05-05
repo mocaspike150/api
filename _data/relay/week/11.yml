@@ -1,7 +1,16 @@
-start: 2019-07-22           
+start: 2019-07-22               
 end: 2019-07-28
 phase: 2
 teams:
-  - 197462
-  - 439808
-  - 519388
+  - 
+    id: 197462
+    mile: 0
+    name: "鹿跑团DEER"
+  - 
+    id: 439808
+    mile: 0
+    name: "东奔西跑，WERun"
+  - 
+    id: 519388
+    mile: 0
+    name: "Princeton Running Team 普林长跑队"
