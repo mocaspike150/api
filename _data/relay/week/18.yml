@@ -1,8 +1,20 @@
-start: 2019-09-09          
+start: 2019-09-09                              
 end: 2019-09-15
 phase: 3
 teams:
-  - 197462
-  - 479503
-  - 236304
-  - 234023
+  - 
+    id: 197462
+    mile: 0
+    name: "鹿跑团DEER"
+  - 
+    id: 479503
+    mile: 0
+    name: "三头牛跑吧"
+  - 
+    id: 236304
+    mile: 0
+    name: "大华府蒙郡跑团，MARC"
+  - 
+    id: 234023
+    mile: 0
+    name: "犇, BEN Running Club"
