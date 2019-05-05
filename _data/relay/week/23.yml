@@ -1,7 +1,16 @@
-start: 2019-10-14          
+start: 2019-10-14                                    
 end: 2019-10-20
 phase: 3
 teams:
-  - 327007
-  - 183643
-  - 196102
+  - 
+    id: 327007
+    mile: 0
+    name: "百駿 Bergen Runners"
+  - 
+    id: 183643
+    mile: 0
+    name: "Long Running Club"
+  - 
+    id: 196102
+    mile: 0
+    name: "GMCRC"
