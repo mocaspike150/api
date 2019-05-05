@@ -1,7 +1,16 @@
-start: 2019-07-29          
+start: 2019-07-29                 
 end: 2019-08-04
 phase: 2
 teams:
-  - 236304
-  - 241951
-  - 176328
+  - 
+    id: 236304
+    mile: 0
+    name: "大华府蒙郡跑团，MARC"
+  - 
+    id: 241951
+    mile: 0
+    name: "岚山 Misty Mountain Runners"
+  - 
+    id: 176328
+    mile: 0
+    name: "车城MIRun"
