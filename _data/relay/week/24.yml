@@ -1,6 +1,12 @@
-start: 2019-10-21          
+start: 2019-10-21                                     
 end: 2019-10-27
 phase: 3
 teams:
-  - 147066
-  - 128445
+  - 
+    id: 147066
+    mile: 0
+    name: "印跑团（Indy Chinese Runners Club"
+  - 
+    id: 128445
+    mile: 0
+    name: "BURN Running Club"
