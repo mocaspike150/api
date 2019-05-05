@@ -1,8 +1,20 @@
-start: 2019-09-30          
+start: 2019-09-30                                   
 end: 2019-10-06
 phase: 3
 teams:
-  - 204946
-  - 241951
-  - 176328
-  - 175314
+  - 
+    id: 204946
+    mile: 0
+    name: "  "
+  - 
+    id: 241951
+    mile: 0
+    name: "岚山 Misty Mountain Runners"
+  - 
+    id: 176328
+    mile: 0
+    name: "车城MIRun"
+  - 
+    id: 175314
+    mile: 0
+    name: "勝跑团(Sheng Runners)"
