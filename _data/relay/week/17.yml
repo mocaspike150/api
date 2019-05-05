@@ -1,8 +1,20 @@
-start: 2019-09-02          
+start: 2019-09-02                           
 end: 2019-09-08
 phase: 3
 teams:
-  - 330129
-  - 481356
-  - 516025
-  - 187897
+  - 
+    id: 330129
+    mile: 0
+    name: "飛狐PHIRE"
+  - 
+    id: 481356
+    mile: 0
+    name: "Nose Hill Running 駜"
+  - 
+    id: 516025
+    mile: 0
+    name: "北卡蓝嶺飞狐 Flying Foxes"
+  - 
+    id: 187897
+    mile: 0
+    name: "多伦多华人跑团， CRIT"
