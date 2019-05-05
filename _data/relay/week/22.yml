@@ -1,7 +1,16 @@
-start: 2019-10-07          
+start: 2019-10-07                                    
 end: 2019-10-13
 phase: 3
 teams:
-  - 484248
-  - 155681
-  - 438046
+  - 
+    id: 484248
+    mile: 0
+    name: "巍巍南开"
+  - 
+    id: 155681
+    mile: 0
+    name: "达跑团DASH"
+  - 
+    id: 438046
+    mile: 0
+    name: "Ann-Hua Runners"
