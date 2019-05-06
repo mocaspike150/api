@@ -5,6 +5,7 @@ desc: |
   Misty Mountain Runners is a running club based in Greater New York area. From Manhattan to Long Island, from Hudson River to Princeton, our members run year around. From NYC Marathon to Ragnar Trail Relay, from a 5K run to a 100-mile ultramarathon, our members race all distances. From dim sum in Chinatown to potluck party, from training to volunteering, our members play and support each other under all weather. All with a simple goal: Stay Healthy and Have Fun.
   岚山跑团是一个近几年来在美东地区快速成长的跑团，是New York Road Runners正式注册，且比赛成绩显著进步的俱乐部，目前约有210名会员。跑团除了支持并鼓励跑友们参加官赛，其中包括5K、10K、 半马及各大马拉松比赛等，平时频繁组织有趣的群跑活动，如“新年猪跑”、“曼哈顿环岛跑”、“中央公园拱桥跑”等。
 url: http://www.mistymountainrunners.com/
-loc: Greater New York Area
+loc: 
+  - Greater New York Area
 size: 100-200 people
 region: 1

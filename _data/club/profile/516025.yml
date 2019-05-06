@@ -3,6 +3,7 @@ en: Flying Foxes
 cn: 北卡蓝嶺飞狐
 desc: Flying Foxes Running Club is a group of Chinese runners based in Charlotte, NC.  Since 2012, we have been participating Blue Ridge Relay (BRR) with various teams (sometimes multiple) including seasoned runners and new runners.   BRR (http://blueridgerelay.com/) is a 36 legs, 200+ miles relay, starting at Grayson Highlands State Park VA and ending at Asheville NC, thru the beautiful Blue Ridge Parkway.  We are welcome all runners, Chinese, or not, local, or not.  
 desc-cn: 北卡飞狐是一只活跃在北卡夏洛特的华人跑群，我们是因为每年跑蓝嶺接力而在2012成立的。
-loc: Charlotte, NC
+loc: 
+  - Charlotte, NC
 size: Less than 20 people
 region: 3

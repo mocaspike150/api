@@ -5,6 +5,7 @@ desc: BURN Running Club is a 501(c)3 not-for-profit organization.  We promotes a
 desc-cn: |
   海外最大华人跑团，扎根湾区，8个活跃分部，近千名烧烧遍布北美辐射全球。成员里不仅有2018中国业余组马拉松最快女子，职业铁三运动员；更有各式码农硅工、创业者、家庭主妇、“网红”。从20的娃娃到60多的大哥，大家互助、包容、积极、负责、钻研、执着，一起做更好的自己。每年获得波马资格的烧烧逾百人，老三小三（破三的master组和年轻组）齐拉风；同时，以吃喝玩乐为跑步动力的欢乐组烧烧者众。BURN是美国注册501(c)3非营利机构，USATF成员，定期组织讲座，为大小比赛做义工、pacer，积极参与慈善活动，更为无数比赛提供跑模！
 url: http://burnrunning.org/
-loc: California 
+loc: 
+  - California 
 size: More than 200 people
 region: 4      

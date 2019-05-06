@@ -4,9 +4,9 @@ en: Seattle United Runners (SU Runners)
 desc: |
   Seattle United Runners，又称SU Runners，西雅图SU跑团。正式成立于2016年，注册501(c)(3)非盈利组织（NPO）。致力于发展大西雅图地区的群众跑步健身活动。现有300多成员，包括优秀业余跑步运动员如Sophia Liu等。多次义工参与地区跑步公益活动，带动大众健身活动。
 url: https://www.surunners.org
-loc: |
-  East Lake Sammamish Trail, Redmond, WA
-  Cross Kirkland Corridor, Kirkland, WA
-  Elliott Bay Trail, Seattle, WA
+loc:
+  - East Lake Sammamish Trail, Redmond, WA
+  - Cross Kirkland Corridor, Kirkland, WA
+  - Elliott Bay Trail, Seattle, WA
 size: More than 200 people
 region: 4  

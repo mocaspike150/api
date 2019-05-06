@@ -1,7 +1,8 @@
 id: 183643
 en: Long Running Club
 cn: 龙帮
-loc: Houston, TX
 desc: We are a group of Chinese runners in the greater Houston area. 
+loc: 
+  - Houston, TX
 size: 50-100 people
 region: 3

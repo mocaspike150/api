@@ -6,10 +6,8 @@ des: |
 des-cn: |
   91集训营，基于加拿大多伦多，是一个会员制的路跑俱乐部，帮助跑者训练，距离从5k - 全程马拉松。目前我们有超过100名会员，我们有自己的教练队伍，周群跑，赛前赛后的分享会。
 url: http://www.91camp.ca/
-loc: |
-  <ul>
-  <li>Toronto, ON, Canada</li>
-  <li>North York, ON, Canada</li>
-  </ul>
+loc:
+  - Toronto, ON, Canada
+  - North York, ON, Canada
 size: 100-200 people
 region: 2

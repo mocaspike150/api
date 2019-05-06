@@ -4,6 +4,9 @@ cn: 达跑团
 desc: |
   DASH(＂达跑团＂)是一个在达拉斯沃斯堡地区，鼓励和发展当地华人跑步及健身的民间团体。目前有280多队员。 我们的宗旨是健康跑，快乐跑，科学跑，慈善跑。以跑步为主要健身运动，以跑步为主要社交活动。达跑团是一个宽容和谐，积极向上，互助互荣的交流平台和团队。
      
-loc: Arbor hills, White rock lake, Campoin Trail, 
+loc: 
+  - Arbor hills
+  - White rock lake
+  - Campoin Trail
 size: More than 200 people
 region: 3

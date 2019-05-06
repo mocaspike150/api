@@ -7,10 +7,8 @@ desc_cn: |
   <p>创造团结、积极、健康的生活方式是雪狼跑团的宗旨。持续不断扩大的影响力，使雪狼跑团成为明尼苏达州华人的骄傲。</p>
   
 url: http://www.mistymountainrunners.com/
-loc: |
-  <ul>
-  <li>Eden Prairie, Minnesota</li>
-  <li>Minnespolis, Minnesota</li>
-  </ul>
+loc:
+  - Eden Prairie, Minnesota
+  - Minnespolis, Minnesota
 size: 50-100 people
 region: 2

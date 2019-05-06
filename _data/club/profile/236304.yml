@@ -3,10 +3,8 @@ en: MARC
 cn: 大华府蒙郡跑团
 desc: 大华府蒙郡跑团（Montgomery Asian Running Club - MARC）创建于2016年初，以微信群的方式服务大华府蒙郡及周边跑步爱好者，旨在以跑会友，健体强身
 url: https://www.facebook.com/groups/GRIT.MARC/
-loc: |
-  <ul>
-  <li>Rockville, MD</li>
-  <li>Potomac, MD</li>
-  </ul>
+loc:
+  Rockville, MD
+  Potomac, MD
 size: 100-200 people
 region: 1
