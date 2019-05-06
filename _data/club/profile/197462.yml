@@ -8,6 +8,10 @@ desc: |
   DEER promotes healthy and happy lifestyles and environmental awareness.
   We all meet in DE as runnERs. Go Deers!
 url: https://www.deerrunning.org/
-loc: Wilmington,DE.; Newark,DE 
+loc: |
+  <ul>
+  <li>Wilmington, DE</li>
+  <li>Newark, DE</li>
+  </ul>
 size: 100-200 people
 region: 1
