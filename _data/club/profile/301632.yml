@@ -3,6 +3,10 @@ en: Patuxent athletic league of striders
 cn: 知足常跑
 desc: We are a group of chinese runners based on Howard county Maryland. Our group name is PALs.
 url: http://www.pals.run/
-loc: 12101  clarksville Pike, Clarkesville, MD;  10400 cross fox ln,  Columbia, MD
+loc: |
+  <ul>
+  <li>Clarkesville, MD</li>
+  <li>Columbia, MD</li>
+  </ul>
 size: 50-100 people
 region: 2
