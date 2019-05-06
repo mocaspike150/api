@@ -5,7 +5,9 @@ desc: |
   Bergen Runners is a group of runners who believe in supporting and cheering for one another. We come from North NJ townships along Route 4, Route 17 and west of the Hudson River. Away from running, we come from all walks of life: professionals, scientists, artists, parents, husbands, wives, children, couples, singles, etc…Our running paths wind through major parks and hidden trails in various neighborhoods. Together, we run into the sunrise and sunset; we sweat and laugh through personal and physical challenges.
   
 url: https://www.bergenrunners.org
-loc: Ridgewood, NJ, Leonia, NJ
+loc: |
+  <ul>
+  <li>Ridgewood, NJ</li>
+  <li>Leonia, NJ</li>
 size: 100-200 people
 region: 1
-image: https://mmbiz.qpic.cn/mmbiz_png/n3XaTDnac4k2swSntsGw6YqYNicVUrVb4YXlL2qOia96p9yWguSuGjecEibVz1pe4ibiafziaVxTJvaAY33Nrmhd2ObQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1
