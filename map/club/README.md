@@ -27,7 +27,7 @@
  - [x] https://www.strava.com/clubs/236304 MARC 大华府蒙郡跑团 [236304.geojson](236304.geojson) (edit [_data/club/geo/236304.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/236304.yml))
  - [x] https://www.strava.com/clubs/241951 Misty Mountain Runners 岚山跑群 [241951.geojson](241951.geojson) (edit [_data/club/geo/241951.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/241951.yml))
  - [x] https://www.strava.com/clubs/299365 Minnesota Chinese Snow Wolves 雪狼 [299365.geojson](299365.geojson) (edit [_data/club/geo/299365.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/299365.yml))
- - [x] https://www.strava.com/clubs/301632 Patuxent athletic league of striders 知足常跑 [301632.geojson](301632.geojson) (edit [_data/club/geo/301632.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/301632.yml))
+ - [x] https://www.strava.com/clubs/301632 PALS 知足常跑 [301632.geojson](301632.geojson) (edit [_data/club/geo/301632.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/301632.yml))
  - [x] https://www.strava.com/clubs/327007 Bergen Runners 百骏 [327007.geojson](327007.geojson) (edit [_data/club/geo/327007.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/327007.yml))
  - [x] https://www.strava.com/clubs/330129 PHIRE Runners 飛狐 [330129.geojson](330129.geojson) (edit [_data/club/geo/330129.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/330129.yml))
  - [x] https://www.strava.com/clubs/438046 Ann-Hua Runners 密西根安娜堡 [438046.geojson](438046.geojson) (edit [_data/club/geo/438046.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/438046.yml))
