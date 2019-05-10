@@ -40,3 +40,4 @@
  - [x] https://www.strava.com/clubs/513442 MOCA Spike 150 undefined [513442.geojson](513442.geojson) (edit [_data/club/geo/513442.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/513442.yml))
  - [x] https://www.strava.com/clubs/516025 Flying Foxes 北卡蓝嶺飞狐 [516025.geojson](516025.geojson) (edit [_data/club/geo/516025.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/516025.yml))
  - [x] https://www.strava.com/clubs/519388 Princeton Running Team 普林长跑队 [519388.geojson](519388.geojson) (edit [_data/club/geo/519388.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/519388.yml))
+ - [x] https://www.strava.com/clubs/523602 TORCH 追风者 [523602.geojson](523602.geojson) (edit [_data/club/geo/523602.yml](https://github.com/mocaspike150/api/edit/master/_data/club/geo/523602.yml))
