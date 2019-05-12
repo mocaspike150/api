@@ -4,7 +4,7 @@ phase: 1
 teams: 
   - 
     id: 72363
-    mile: 2623
+    mile: 2155
     name: "ChiRunners 驰"
   - 
     id: 128445
@@ -12,7 +12,7 @@ teams:
     name: "BURN Running Club"
   - 
     id: 301632
-    mile: 703
+    mile: 708
     name: "知足常跑， Patuxent athletic league of striders"
 
   -
