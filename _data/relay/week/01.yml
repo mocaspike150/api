@@ -4,23 +4,23 @@ phase: 1
 teams: 
   - 
     id: 72363
-    mile: 1215
+    mile: 2623
     name: "ChiRunners 驰"
   - 
     id: 128445
-    mile: 2598 
+    mile: 5872
     name: "BURN Running Club"
   - 
     id: 301632
-    mile: 284 
+    mile: 703
     name: "知足常跑， Patuxent athletic league of striders"
 
   -
     id: 302045 
-    mile: 0
+    mile: 252
     name: "YOLO跑步骑车群"
  
   -
     id: 523430
-    mile: 0
+    mile: 285
     name: "Flying Fox 78"
