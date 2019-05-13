@@ -1,0 +1,79 @@
+Rank	Athlete	Distance	Runs	Longest	Avg. Pace	Elev. Gain
+1	
+ Anthony W.	69.7 km	6	19.6 km	5:42 /km	489 m
+2	
+ Guangzhen X.	66.1 km	5	22.8 km	5:47 /km	689 m
+3	
+ Vincent W.	57.5 km	5	14.2 km	6:11 /km	1,304 m
+4	
+ Jordan Y.	56.0 km	5	21.0 km	5:36 /km	397 m
+5	
+ Hong G.	49.8 km	3	17.0 km	4:47 /km	20 m
+6	
+ Jason L.	47.8 km	4	14.4 km	5:06 /km	273 m
+7	
+ Wei H.	45.2 km	3	19.5 km	5:49 /km	592 m
+8	
+ Jimmy W.	43.5 km	6	9.0 km	6:00 /km	--
+9	
+ Ann N.	43.5 km	4	16.3 km	5:56 /km	82 m
+10	
+ Annie L.	43.1 km	4	14.7 km	5:40 /km	340 m
+11	
+ John C.	42.5 km	5	10.0 km	5:24 /km	176 m
+12	
+ Weijia W.	40.7 km	6	9.7 km	6:41 /km	91 m
+13	
+ Sutang C.	40.5 km	6	17.6 km	6:38 /km	221 m
+14	
+ Ning D.	39.8 km	3	13.2 km	5:39 /km	--
+15	
+ Tiebin L.	38.2 km	3	13.6 km	5:26 /km	168 m
+16	
+ Lucy Z.	35.6 km	6	8.1 km	9:01 /km	421 m
+17	
+ Hao N.	35.4 km	4	9.6 km	5:10 /km	71 m
+18	
+ Judy F.	35.0 km	7	9.6 km	6:06 /km	183 m
+19	
+ Ray S.	34.2 km	4	9.6 km	6:53 /km	29 m
+20	
+ Sharon L.	34.0 km	3	12.9 km	6:44 /km	317 m
+21	
+ Lynn C.	32.2 km	3	14.4 km	5:49 /km	339 m
+22	
+ Michael G.	31.2 km	4	12.9 km	6:00 /km	416 m
+23	
+ Carrie C.	30.4 km	4	9.7 km	6:41 /km	10 m
+24	
+ Christine W.	29.1 km	3	12.1 km	6:49 /km	67 m
+25	
+ Lynn L.	27.5 km	4	8.6 km	7:26 /km	236 m
+26	
+ David Y.	23.5 km	2	14.6 km	5:38 /km	107 m
+27	
+ Jiajun L.	22.6 km	3	9.6 km	7:09 /km	98 m
+28	
+ Yun C.	22.6 km	4	9.8 km	5:41 /km	325 m
+29	
+ Denise S.	22.5 km	3	7.8 km	5:47 /km	101 m
+30	
+ Zhili Z.	20.4 km	3	8.8 km	16:55 /km	487 m
+31	
+ Yanfeng C.	20.2 km	2	10.1 km	4:58 /km	56 m
+32	
+ Sean L.	17.7 km	3	9.6 km	6:09 /km	93 m
+33	
+ Jun H.	15.7 km	3	6.9 km	6:29 /km	49 m
+34	
+ Xiang M.	13.8 km	2	6.9 km	6:05 /km	--
+35	
+ Yong C.	12.4 km	1	12.4 km	6:12 /km	141 m
+36	
+ Ruisi W.	12.2 km	3	6.5 km	6:33 /km	31 m
+37	
+ mike s.	9.6 km	1	9.6 km	7:38 /km	276 m
+38	
+ Bin L.	8.0 km	1	8.0 km	6:10 /km	112 m
+39	
+ Grace M.	2.1 km	1	2.1 km	8:48 /km	10 m

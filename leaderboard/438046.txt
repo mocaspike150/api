@@ -1,0 +1,77 @@
+Rank	Athlete	Distance	Runs	Longest	Avg. Pace	Elev. Gain
+1	
+ Guodong P.	157.2 km	7	42.2 km	4:40 /km	358 m
+2	
+ Peng Z.	102.6 km	7	28.9 km	5:08 /km	684 m
+3	
+ Jan G.	89.5 km	6	19.3 km	6:12 /km	506 m
+4	
+ Gary W.	68.0 km	4	22.5 km	5:24 /km	202 m
+5	
+ C. Wu X.	56.4 km	4	24.9 km	5:34 /km	339 m
+6	
+ Shan C.	54.5 km	5	14.8 km	5:32 /km	310 m
+7	
+ Zhihong S.	45.7 km	3	21.2 km	6:05 /km	189 m
+8	
+ Yuhong Z.	41.9 km	3	21.4 km	6:48 /km	103 m
+9	
+ L L.	41.4 km	6	15.0 km	6:05 /km	106 m
+10	
+ Ying L.	36.5 km	4	11.0 km	6:52 /km	104 m
+11	
+ Fansheng M.	36.4 km	5	12.0 km	5:33 /km	150 m
+12	
+ kai w.	35.6 km	4	10.9 km	6:24 /km	131 m
+13	
+ Jian J.	35.3 km	7	5.2 km	4:46 /km	218 m
+14	
+ Jin L.	35.0 km	4	10.4 km	5:38 /km	254 m
+15	
+ Xiaoping l.	31.3 km	3	12.0 km	6:44 /km	240 m
+16	
+ Wei Z.	30.9 km	3	12.8 km	6:26 /km	164 m
+17	
+ yiwu y.	22.8 km	2	12.4 km	5:36 /km	121 m
+18	
+ Zhaohui F.	21.5 km	1	21.5 km	5:10 /km	89 m
+19	
+ Xuhong C.	21.2 km	3	9.7 km	8:02 /km	245 m
+20	
+ Yimai D.	20.6 km	4	7.7 km	6:10 /km	147 m
+21	
+ xin x.	20.0 km	1	20.0 km	7:07 /km	68 m
+22	
+ xiaomei c.	18.8 km	3	10.8 km	6:16 /km	84 m
+23	
+ Ling H.	18.1 km	3	11.8 km	5:25 /km	124 m
+24	
+ Hongzhe L.	16.9 km	2	10.1 km	5:58 /km	124 m
+25	
+ Yang L.	13.1 km	1	13.1 km	6:19 /km	46 m
+26	
+ Haiyong L.	13.1 km	1	13.1 km	7:16 /km	40 m
+27	
+ Tracy C.	11.1 km	3	10.8 km	6:16 /km	79 m
+28	
+ Wei L.	10.9 km	1	10.9 km	7:32 /km	81 m
+29	
+ Huilei Z.	10.9 km	3	6.5 km	8:05 /km	54 m
+30	
+ Louisa L.	10.0 km	1	10.0 km	6:37 /km	93 m
+31	
+ Xiuju H.	9.8 km	1	9.8 km	7:02 /km	37 m
+32	
+ Caiyun H.	8.1 km	1	8.1 km	7:12 /km	24 m
+33	
+ ymz y.	7.3 km	1	7.3 km	7:41 /km	54 m
+34	
+ Zhe W.	6.7 km	1	6.7 km	7:49 /km	35 m
+35	
+ Hongzhi M.	5.8 km	1	5.8 km	6:04 /km	53 m
+36	
+ Bin X.	5.0 km	1	5.0 km	6:02 /km	50 m
+37	
+ Yanni L.	3.7 km	1	3.7 km	6:41 /km	18 m
+38	
+ Xiaoying H.	1.0 km	1	1.0 km	7:43 /km	3 m

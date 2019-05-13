@@ -1,0 +1,155 @@
+Rank	Athlete	Distance	Runs	Longest	Avg. Pace	Elev. Gain
+1	
+ Pengxiang Y.	117.2 km	10	24.2 km	5:31 /km	334 m
+2	
+ Junfeng Z.	114.3 km	7	25.7 km	5:10 /km	741 m
+3	
+ Jingyang Z.	113.2 km	7	28.2 km	5:35 /km	323 m
+4	
+ Weihua C.	104.1 km	7	23.2 km	4:49 /km	381 m
+5	
+ Peng Z.	102.6 km	7	28.9 km	5:08 /km	684 m
+6	
+ Bing W.	98.1 km	8	21.9 km	6:03 /km	438 m
+7	
+ Jun Z.	88.9 km	7	29.8 km	5:13 /km	386 m
+8	
+ Xiaohui Y.	84.4 km	6	28.9 km	6:17 /km	518 m
+9	
+ Jiang H.	78.0 km	6	20.0 km	5:07 /km	997 m
+10	
+ 胖 猫.	74.4 km	6	26.0 km	5:45 /km	250 m
+11	
+ Li Z.	57.2 km	5	19.4 km	9:07 /km	1,190 m
+12	
+ 劲松 彭.	56.4 km	5	12.6 km	4:49 /km	159 m
+13	
+ Yugong C.	54.7 km	6	18.0 km	6:12 /km	97 m
+14	
+ Jidong D.	54.5 km	4	22.0 km	6:14 /km	177 m
+15	
+ Wenxiu Z.	53.5 km	5	16.2 km	6:20 /km	148 m
+16	
+ Haitao S.	52.9 km	6	11.2 km	5:54 /km	190 m
+17	
+ Hong G.	49.8 km	3	17.0 km	4:47 /km	20 m
+18	
+ Gang Y.	48.9 km	3	21.3 km	5:23 /km	197 m
+19	
+ zhang j.	47.2 km	5	15.4 km	6:13 /km	94 m
+20	
+ Jinsong L.	47.0 km	4	16.0 km	6:14 /km	149 m
+21	
+ Mingxing G.	45.9 km	4	16.8 km	5:59 /km	147 m
+22	
+ Wei H.	45.2 km	3	19.5 km	5:49 /km	592 m
+23	
+ Chang L.	44.7 km	6	12.2 km	7:37 /km	67 m
+24	
+ Ivy X M.	44.2 km	5	14.7 km	5:36 /km	312 m
+25	
+ Shouhun S.	41.3 km	4	15.3 km	6:46 /km	242 m
+26	
+ Peipei Y.	40.5 km	5	8.1 km	5:52 /km	381 m
+27	
+ Xiaoxia R.	38.4 km	4	12.8 km	6:08 /km	66 m
+28	
+ Jun L.	37.5 km	5	15.9 km	5:14 /km	308 m
+29	
+ Xiaoyan X.	36.7 km	4	14.3 km	6:26 /km	144 m
+30	
+ Xuepeng L.	36.2 km	6	9.9 km	6:12 /km	148 m
+31	
+ Yiting D.	35.0 km	4	11.9 km	5:43 /km	94 m
+32	
+ Tao L.	32.0 km	3	15.1 km	5:00 /km	45 m
+33	
+ Juli G.	30.8 km	3	10.8 km	6:11 /km	354 m
+34	
+ Haiyan S.	29.7 km	3	16.5 km	5:28 /km	202 m
+35	
+ Chao Y.	28.0 km	2	17.9 km	5:14 /km	130 m
+36	
+ Dahe Y.	27.4 km	7	10.0 km	8:07 /km	42 m
+37	
+ Dongyang L.	27.2 km	2	14.3 km	5:42 /km	365 m
+38	
+ Jean C.	27.1 km	5	11.0 km	8:15 /km	87 m
+39	
+ Yunjiang Q.	23.8 km	3	9.9 km	5:16 /km	61 m
+40	
+ Feng T.	23.6 km	4	6.5 km	5:01 /km	53 m
+41	
+ 汶成 桑.	23.3 km	4	9.9 km	6:05 /km	101 m
+42	
+ Lijun B.	23.1 km	2	13.1 km	3:52 /km	--
+43	
+ Sherry G.	23.1 km	4	9.5 km	7:00 /km	32 m
+44	
+ Wei Y.	22.5 km	2	16.1 km	5:55 /km	13 m
+45	
+ Henry M.	22.5 km	3	12.2 km	6:16 /km	149 m
+46	
+ Ruining M.	20.2 km	2	11.0 km	8:07 /km	154 m
+47	
+ Yanfeng C.	20.2 km	2	10.1 km	4:58 /km	56 m
+48	
+ Feng L.	18.9 km	2	11.2 km	6:23 /km	170 m
+49	
+ Qi S.	17.2 km	2	9.8 km	6:06 /km	31 m
+50	
+ Hao Z.	17.1 km	3	6.0 km	5:11 /km	180 m
+51	
+ Jingjing Y.	17.1 km	2	10.1 km	6:16 /km	81 m
+52	
+ Hongzhe L.	16.9 km	2	10.1 km	5:58 /km	124 m
+53	
+ Joyce C.	16.7 km	2	8.6 km	6:19 /km	248 m
+54	
+ Chang L.	15.9 km	2	10.2 km	5:24 /km	56 m
+55	
+ cao x.	15.5 km	5	15.3 km	7:31 /km	34 m
+56	
+ Michelle D.	15.2 km	2	10.1 km	6:40 /km	109 m
+57	
+ Josh W.	15.0 km	2	8.0 km	5:42 /km	122 m
+58	
+ Xiaohong H.	14.6 km	4	5.0 km	8:27 /km	27 m
+59	
+ Jw X.	14.4 km	1	14.4 km	4:51 /km	9 m
+60	
+ Haiyong L.	13.1 km	1	13.1 km	7:16 /km	40 m
+61	
+ Xinle Y.	13.0 km	1	13.0 km	5:52 /km	109 m
+62	
+ Jikun L.	12.8 km	2	6.4 km	7:13 /km	94 m
+63	
+ Rachel S.	11.6 km	2	6.4 km	5:22 /km	33 m
+64	
+ Puhong G.	10.2 km	1	10.2 km	4:55 /km	67 m
+65	
+ Honggang Y.	9.4 km	1	9.4 km	5:33 /km	59 m
+66	
+ Jianing P.	9.3 km	2	4.9 km	5:00 /km	28 m
+67	
+ Oliver C.	7.6 km	4	4.1 km	6:52 /km	21 m
+68	
+ Sunnyོ 🌻.	6.7 km	1	6.7 km	7:18 /km	11 m
+69	
+ Jijie W.	6.2 km	1	6.2 km	7:55 /km	13 m
+70	
+ Mei 雨.	5.5 km	1	5.5 km	7:27 /km	88 m
+71	
+ Jie X.	5.0 km	1	5.0 km	4:37 /km	25 m
+72	
+ Li W.	3.6 km	1	3.6 km	6:08 /km	11 m
+73	
+ JianGang H.	3.0 km	1	3.0 km	8:27 /km	33 m
+74	
+ Kai C.	3.0 km	1	3.0 km	9:00 /km	33 m
+75	
+ Chuyang C.	2.9 km	1	2.9 km	6:33 /km	12 m
+76	
+ Yong C.	2.3 km	1	2.3 km	5:50 /km	--
+77	
+ Fiona H.	0.3 km	1	0.3 km	8:44 /km	13 m

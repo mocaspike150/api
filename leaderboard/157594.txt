@@ -1,0 +1,181 @@
+Rank	Athlete	Distance	Runs	Longest	Avg. Pace	Elev. Gain
+1	
+ Sophia L.	116.4 km	9	22.8 km	4:56 /km	659 m
+2	
+ Junfeng Z.	114.3 km	7	25.7 km	5:10 /km	741 m
+3	
+ Jingyang Z.	113.2 km	7	28.2 km	5:35 /km	323 m
+4	
+ Guanyu W.	105.5 km	7	28.2 km	5:03 /km	578 m
+5	
+ Wenyan Z.	104.8 km	10	36.2 km	6:39 /km	321 m
+6	
+ Kaiyan W.	98.7 km	7	27.3 km	5:23 /km	331 m
+7	
+ Li Z.	96.6 km	6	33.1 km	5:48 /km	705 m
+8	
+ Jie L.	94.7 km	7	25.7 km	6:35 /km	1,022 m
+9	
+ Mark Y.	93.8 km	7	32.2 km	6:17 /km	1,858 m
+10	
+ Mei X.	90.3 km	6	32.6 km	5:30 /km	409 m
+11	
+ Bob M.	86.5 km	6	32.6 km	5:02 /km	187 m
+12	
+ Liang C.	80.7 km	6	25.4 km	6:27 /km	435 m
+13	
+ Xiao W.	77.5 km	4	40.0 km	7:17 /km	1,582 m
+14	
+ Jianfeng C.	76.0 km	7	16.8 km	5:30 /km	93 m
+15	
+ Bison Z.	74.4 km	7	27.0 km	6:09 /km	317 m
+16	
+ LULU H.	71.8 km	6	32.6 km	5:32 /km	238 m
+17	
+ Rui G.	67.4 km	4	32.2 km	5:11 /km	102 m
+18	
+ John D.	66.6 km	4	20.4 km	5:08 /km	363 m
+19	
+ Chris C.	66.5 km	7	28.9 km	5:45 /km	269 m
+20	
+ Hao Z.	66.3 km	4	33.1 km	4:57 /km	233 m
+21	
+ Metis Z.	66.0 km	8	21.2 km	6:12 /km	495 m
+22	
+ Ying N.	65.4 km	6	27.4 km	5:57 /km	693 m
+23	
+ Shumin F.	62.9 km	5	16.2 km	6:46 /km	289 m
+24	
+ Ray W.	59.9 km	3	32.2 km	5:19 /km	186 m
+25	
+ Zhuowei L.	58.6 km	5	21.7 km	5:43 /km	575 m
+26	
+ GW W.	54.3 km	4	16.1 km	5:52 /km	623 m
+27	
+ Shengyu F.	53.5 km	4	24.7 km	5:34 /km	98 m
+28	
+ Liang Gang Y.	51.5 km	3	26.1 km	5:01 /km	63 m
+29	
+ May L.	50.9 km	6	12.9 km	6:25 /km	154 m
+30	
+ Tao Z.	47.6 km	3	25.7 km	5:18 /km	285 m
+31	
+ Shaofeng Z.	47.2 km	4	15.2 km	5:41 /km	160 m
+32	
+ Ying H.	40.5 km	4	16.2 km	5:58 /km	175 m
+33	
+ Kay H.	40.3 km	6	11.3 km	9:14 /km	606 m
+34	
+ Shuang S.	39.7 km	2	30.0 km	6:04 /km	1,142 m
+35	
+ Becca C.	39.5 km	4	12.9 km	5:42 /km	70 m
+36	
+ Yingtao W.	36.2 km	5	16.2 km	6:05 /km	238 m
+37	
+ Hanshi L.	35.8 km	6	9.8 km	6:20 /km	176 m
+38	
+ Yong Z.	35.4 km	3	25.7 km	5:59 /km	46 m
+39	
+ Yuling Z.	34.9 km	3	17.0 km	7:43 /km	337 m
+40	
+ Sankari S.	32.6 km	4	11.5 km	6:01 /km	67 m
+41	
+ Qiong S.	32.5 km	1	32.5 km	6:00 /km	42 m
+42	
+ Qinjia Amy H.	31.3 km	5	12.8 km	8:46 /km	144 m
+43	
+ Alice W.	31.2 km	3	14.4 km	6:04 /km	137 m
+44	
+ Sherry Y.	31.0 km	2	19.7 km	6:33 /km	42 m
+45	
+ Yi Z.	29.9 km	4	9.9 km	6:30 /km	190 m
+46	
+ Paige W.	29.3 km	5	9.6 km	6:39 /km	220 m
+47	
+ Stanley Y.	28.9 km	2	17.7 km	6:25 /km	147 m
+48	
+ Shan J.	28.7 km	3	16.6 km	6:37 /km	326 m
+49	
+ alex W.	27.5 km	4	10.1 km	6:09 /km	112 m
+50	
+ John W.	26.2 km	6	10.3 km	6:43 /km	317 m
+51	
+ Jeff C.	25.8 km	1	25.8 km	5:14 /km	33 m
+52	
+ julie j.	25.2 km	4	7.1 km	8:52 /km	153 m
+53	
+ Scott W.	25.2 km	3	9.1 km	7:08 /km	390 m
+54	
+ Wanwen Q.	25.1 km	3	10.4 km	5:37 /km	115 m
+55	
+ Yanchun G.	24.9 km	3	8.4 km	7:29 /km	13 m
+56	
+ Qian W.	24.4 km	2	16.2 km	6:53 /km	263 m
+57	
+ Haipeng L.	23.8 km	4	8.5 km	6:51 /km	83 m
+58	
+ Hao H.	23.5 km	1	23.5 km	6:28 /km	190 m
+59	
+ David L.	23.2 km	3	8.4 km	6:56 /km	21 m
+60	
+ Dan F.	22.6 km	2	12.8 km	6:05 /km	42 m
+61	
+ Yuqi F.	22.3 km	5	5.0 km	7:36 /km	30 m
+62	
+ Ge L.	21.2 km	1	21.2 km	5:11 /km	102 m
+63	
+ Kristy Z.	21.1 km	2	16.1 km	6:51 /km	51 m
+64	
+ Zhen M.	20.0 km	3	9.6 km	6:23 /km	110 m
+65	
+ Celina X.	19.9 km	3	12.9 km	7:41 /km	176 m
+66	
+ Shengquan L.	19.5 km	3	6.5 km	6:16 /km	19 m
+67	
+ Xiao W.	19.3 km	2	9.9 km	4:34 /km	132 m
+68	
+ Lichen J.	18.9 km	3	11.4 km	7:20 /km	162 m
+69	
+ Jennifer Y.	18.9 km	3	8.5 km	5:51 /km	--
+70	
+ Yina W.	18.7 km	2	11.0 km	6:36 /km	183 m
+71	
+ Xiaozhong X.	17.0 km	2	8.5 km	6:58 /km	46 m
+72	
+ Lucy L.	16.5 km	5	6.4 km	12:48 /km	186 m
+73	
+ Xin S.	16.2 km	4	4.3 km	7:17 /km	175 m
+74	
+ Jun F.	15.4 km	2	8.4 km	6:03 /km	195 m
+75	
+ Hui J.	15.2 km	2	9.6 km	5:56 /km	12 m
+76	
+ susan J.	14.4 km	4	6.0 km	7:19 /km	185 m
+77	
+ Zhimin C.	14.2 km	3	5.3 km	9:54 /km	120 m
+78	
+ Jianchun L.	13.9 km	2	7.8 km	5:40 /km	63 m
+79	
+ Todd I.	10.0 km	2	5.2 km	14:16 /km	452 m
+80	
+ Bingfeng L.	9.9 km	1	9.9 km	5:46 /km	83 m
+81	
+ Tony W.	9.9 km	1	9.9 km	6:41 /km	110 m
+82	
+ Binbin F.	9.5 km	2	6.4 km	7:37 /km	35 m
+83	
+ Michael L.	9.4 km	1	9.4 km	5:11 /km	79 m
+84	
+ Guining Z.	8.9 km	2	4.5 km	5:29 /km	9 m
+85	
+ Grace C.	8.0 km	1	8.0 km	7:58 /km	7 m
+86	
+ Jingjing M.	6.4 km	1	6.4 km	6:06 /km	20 m
+87	
+ Yanming D.	6.4 km	1	6.4 km	4:59 /km	--
+88	
+ Jeanette L.	6.2 km	2	5.1 km	7:57 /km	15 m
+89	
+ Stephanie L.	3.4 km	1	3.4 km	15:28 /km	18 m
+90	
+ Zoe L.	3.2 km	1	3.2 km	7:27 /km	9 m

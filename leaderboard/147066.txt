@@ -1,0 +1,79 @@
+Rank	Athlete	Distance	Runs	Longest	Avg. Pace	Elev. Gain
+1	
+ Tian W.	86.7 km	6	21.3 km	5:38 /km	309 m
+2	
+ Hong Z.	81.9 km	7	24.9 km	7:38 /km	231 m
+3	
+ Yi Y.	69.6 km	5	19.6 km	5:25 /km	81 m
+4	
+ Shanshan W.	68.9 km	6	14.4 km	5:59 /km	348 m
+5	
+ wenyu m.	68.3 km	4	19.5 km	5:49 /km	211 m
+6	
+ Eugene Z.	65.0 km	5	24.9 km	6:23 /km	125 m
+7	
+ Frank T.	61.9 km	4	21.8 km	5:12 /km	166 m
+8	
+ Back T.	61.2 km	5	18.4 km	6:04 /km	170 m
+9	
+ Yugong C.	54.7 km	6	18.0 km	6:12 /km	97 m
+10	
+ Zhigang L.	54.3 km	3	24.4 km	5:47 /km	219 m
+11	
+ hao w.	49.4 km	3	26.0 km	4:52 /km	114 m
+12	
+ Sharlene T.	48.5 km	3	21.1 km	6:50 /km	122 m
+13	
+ Chengzhi T.	46.7 km	3	24.1 km	5:35 /km	92 m
+14	
+ Huirong Q.	40.5 km	3	21.0 km	6:40 /km	135 m
+15	
+ LZ Y.	40.1 km	3	17.7 km	6:04 /km	90 m
+16	
+ Yunlong L.	39.4 km	5	8.1 km	5:41 /km	152 m
+17	
+ Mingzhou N.	34.3 km	2	23.3 km	5:14 /km	110 m
+18	
+ Kevin H.	34.0 km	3	14.6 km	6:00 /km	77 m
+19	
+ Hattie G.	33.8 km	2	19.5 km	6:22 /km	109 m
+20	
+ Kun Z.	30.5 km	2	16.2 km	5:25 /km	71 m
+21	
+ Minrong A.	28.9 km	2	20.7 km	5:36 /km	105 m
+22	
+ xiaolin w.	28.0 km	2	16.4 km	5:29 /km	75 m
+23	
+ Yan W.	26.5 km	4	16.1 km	8:00 /km	49 m
+24	
+ Fang C.	26.0 km	3	12.0 km	6:53 /km	119 m
+25	
+ Minghua N.	25.3 km	3	10.1 km	7:08 /km	406 m
+26	
+ Kun Z.	24.3 km	4	10.4 km	7:25 /km	9 m
+27	
+ Mike P.	19.9 km	3	6.8 km	7:15 /km	10 m
+28	
+ Harry Z.	19.4 km	2	10.7 km	6:53 /km	25 m
+29	
+ Zhenhao G.	19.3 km	4	14.4 km	5:29 /km	82 m
+30	
+ Claire J.	16.9 km	1	16.9 km	6:17 /km	51 m
+31	
+ Jw X.	14.4 km	1	14.4 km	4:51 /km	9 m
+32	
+ Margaret M.	11.4 km	1	11.4 km	6:30 /km	19 m
+33	
+ Zee X.	10.5 km	3	3.6 km	9:16 /km	149 m
+34	
+ Hui S.	8.8 km	1	8.8 km	6:50 /km	--
+35	
+ Birong L.	8.1 km	1	8.1 km	6:34 /km	--
+36	
+ Feng z.	6.4 km	1	6.4 km	6:47 /km	73 m
+37	
+ Yefeng R.	5.9 km	1	5.9 km	6:03 /km	--
+38	
+ Shusheng L.	3.4 km	1	3.4 km	9:12 /km	--
+39	
+ May L.	2.1 km	1	2.1 km	10:10 /km	42 m

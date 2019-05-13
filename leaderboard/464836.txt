@@ -1,0 +1,109 @@
+Rank	Athlete	Distance	Runs	Longest	Avg. Pace	Elev. Gain
+1	
+ Jun Z.	88.9 km	7	29.8 km	5:13 /km	386 m
+2	
+ Luchi C.	88.6 km	7	22.2 km	4:42 /km	668 m
+3	
+ Rocky L.	76.3 km	5	24.1 km	5:23 /km	620 m
+4	
+ Jie Z.	70.8 km	6	14.5 km	6:24 /km	721 m
+5	
+ Bill H.	69.0 km	7	15.1 km	5:26 /km	355 m
+6	
+ Wayne S.	66.7 km	7	26.0 km	6:39 /km	71 m
+7	
+ Yi X.	63.0 km	5	21.1 km	5:49 /km	266 m
+8	
+ Elsa L.	60.8 km	7	11.3 km	6:22 /km	414 m
+9	
+ Eva Z.	59.9 km	7	14.0 km	6:22 /km	265 m
+10	
+ Jordan Y.	56.0 km	5	21.0 km	5:36 /km	397 m
+11	
+ Andy L.	52.0 km	5	23.0 km	5:48 /km	211 m
+12	
+ Joy 乔.	51.9 km	4	26.0 km	6:54 /km	218 m
+13	
+ jinglin f.	43.1 km	6	10.1 km	6:25 /km	244 m
+14	
+ Jason W.	41.4 km	4	11.4 km	5:54 /km	191 m
+15	
+ King R.	41.0 km	4	21.0 km	5:16 /km	143 m
+16	
+ Kevin T.	39.7 km	5	13.0 km	5:14 /km	179 m
+17	
+ Ben C.	39.3 km	3	21.0 km	5:19 /km	210 m
+18	
+ 觀 觀.	37.4 km	3	24.0 km	8:00 /km	93 m
+19	
+ Tony W.	37.1 km	4	10.0 km	6:42 /km	228 m
+20	
+ J L.	35.2 km	4	15.0 km	6:03 /km	103 m
+21	
+ Judy X.	35.1 km	4	9.9 km	6:19 /km	204 m
+22	
+ 闲人 J.	32.1 km	4	10.5 km	5:51 /km	175 m
+23	
+ Steve Y.	28.8 km	3	13.6 km	5:52 /km	117 m
+24	
+ Jean S.	28.7 km	4	10.6 km	5:34 /km	82 m
+25	
+ Cindy W.	26.3 km	3	12.2 km	5:24 /km	184 m
+26	
+ JANE-枫叶红 L.	26.2 km	3	10.2 km	6:26 /km	146 m
+27	
+ Alexis Z.	26.0 km	3	10.0 km	6:18 /km	136 m
+28	
+ Daniel X.	25.9 km	4	10.8 km	6:14 /km	141 m
+29	
+ Sunny L.	24.7 km	3	9.5 km	6:45 /km	203 m
+30	
+ Patrick P.	24.3 km	3	10.0 km	5:34 /km	123 m
+31	
+ Tina W.	24.1 km	2	16.0 km	5:16 /km	165 m
+32	
+ Lily L.	22.4 km	4	10.1 km	6:52 /km	104 m
+33	
+ Cathy W.	21.6 km	3	10.5 km	6:52 /km	91 m
+34	
+ Shixin Z.	21.3 km	4	6.3 km	5:50 /km	64 m
+35	
+ Qiang Z.	18.8 km	2	10.8 km	5:36 /km	103 m
+36	
+ Emily Z.	18.5 km	2	10.5 km	6:08 /km	143 m
+37	
+ Grace P.	17.3 km	3	10.0 km	7:51 /km	185 m
+38	
+ Ahmad A.	17.1 km	7	10.6 km	5:25 /km	86 m
+39	
+ Jim X.	14.3 km	2	10.3 km	5:33 /km	57 m
+40	
+ Brian X.	14.1 km	1	14.1 km	5:27 /km	106 m
+41	
+ frank l.	12.3 km	1	12.3 km	5:12 /km	96 m
+42	
+ Ryan C.	12.0 km	2	6.0 km	7:07 /km	70 m
+43	
+ Shirley 袁.	12.0 km	1	12.0 km	6:58 /km	65 m
+44	
+ Yi H.	11.0 km	2	6.0 km	5:12 /km	72 m
+45	
+ Thomas F.	10.4 km	1	10.4 km	4:15 /km	29 m
+46	
+ Lily S.	10.4 km	1	10.4 km	6:47 /km	87 m
+47	
+ James W.	10.3 km	1	10.3 km	6:01 /km	21 m
+48	
+ david l.	10.1 km	1	10.1 km	6:32 /km	118 m
+49	
+ Victor H.	10.0 km	1	10.0 km	5:04 /km	25 m
+50	
+ weihua( Robert) l.	8.1 km	1	8.1 km	6:45 /km	44 m
+51	
+ Sunfish J.	8.0 km	1	8.0 km	7:18 /km	29 m
+52	
+ Yang G.	7.0 km	1	7.0 km	6:26 /km	40 m
+53	
+ karen w.	6.3 km	1	6.3 km	7:10 /km	27 m
+54	
+ Julie H.	6.0 km	1	6.0 km	7:43 /km	33 m

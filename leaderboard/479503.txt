@@ -1,0 +1,23 @@
+Rank	Athlete	Distance	Runs	Longest	Avg. Pace	Elev. Gain
+1	
+ Nadia L.	61.6 km	6	24.3 km	5:38 /km	321 m
+2	
+ Lei W.	43.1 km	5	11.7 km	6:15 /km	325 m
+3	
+ Liangtao Z.	34.2 km	2	24.2 km	5:10 /km	179 m
+4	
+ Gowa B.	29.2 km	11	10.3 km	6:23 /km	163 m
+5	
+ Chang L.	17.8 km	3	6.9 km	5:16 /km	128 m
+6	
+ Yi L.	17.3 km	3	7.4 km	6:15 /km	129 m
+7	
+ Jian G.	17.0 km	5	5.0 km	6:58 /km	71 m
+8	
+ Bo Y.	16.1 km	3	7.4 km	10:47 /km	145 m
+9	
+ Yan D.	13.4 km	3	6.4 km	8:21 /km	53 m
+10	
+ Feng D.	4.4 km	1	4.4 km	13:49 /km	16 m
+11	
+ Kevin L.	2.2 km	2	1.5 km	9:31 /km	--
