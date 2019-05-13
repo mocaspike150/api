@@ -1,4 +1,4 @@
-update:
+update: week01
 	npm run members
 	npm run avatar
 
