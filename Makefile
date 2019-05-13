@@ -5,5 +5,5 @@ update:
 geojson:
 	npm run geojson
 
-club_miles:
-	node bin/build_club_miles.js
+week1_club_miles:
+	make -f week1_club_miles.make
