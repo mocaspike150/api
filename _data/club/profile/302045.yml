@@ -1,5 +1,6 @@
 id: 302045
-en: YOLO跑步骑车群
+en: YOLO Running and Biking Club
+cn: YOLO跑步骑车群
 desc: |
   YOLO跑步骑车群是纽约地区青年华人组织的一个运动团体，以锻炼身体，增进友谊为目标，以曼哈顿中央公园和皇后区科罗拉公园为主要场地组织慢跑活动，同时也组织自行车骑行活动（曼哈顿绕岛，熊山行，长岛东端灯塔行等）。  
   
@@ -9,3 +10,4 @@ loc:
   - Corona park, Queens, New York
 size: 20-50 people
 region: 1
+crowdrise: https://www.crowdrise.com/o/en/campaign/moca-spike-150-ambassadors/yolonyc
