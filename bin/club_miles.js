@@ -14,9 +14,19 @@ const leaderboard = (id) => {
     page.setDefaultTimeout(60000)
 
     await page.goto(url, {waitUntil: 'networkidle2'})
-    let text = await page.evaluate(() => document.body.querySelector('.leaderboard').innerText)
-    console.log(text)
-  await browser.close()
+    const text = await page.evaluate(() => document.body.querySelector('.leaderboard').innerText)
+    const lines = text.split('\n').filter((d) => (d.match(/km/)))
+    let data = []
+    for(let line of lines) {
+      data.push(line.split('\t')[1])
+    }
+    let sum = 0
+    for(let d of data.map(parseFloat)) {
+      sum += d
+    }
+    console.log(`miles: ${sum * 0.621371}`)
+    
+    await browser.close()
  })();
 };
 

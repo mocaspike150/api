@@ -4,3 +4,6 @@ update:
 
 geojson:
 	npm run geojson
+
+club_miles:
+	node bin/build_club_miles.js
