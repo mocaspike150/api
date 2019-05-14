@@ -18,7 +18,9 @@ const leaderboard = (week, id) => {
       const text = await page.evaluate(() => document.body.querySelector('.leaderboard').innerText)
       const lines = text.split('\n').filter((d) => (d.match(/km/)))
       let data = []
+      let count = 1
       for(let line of lines) {
+        data.push(count++) 
         data.push(line.split('\t'))
       }
       fs.writeFile(output, JSON.stringify(data), (err) => {
