@@ -1,6 +1,4 @@
-all: 128445 301632 302045 523430 72363 leaderboard
-
-leaderboard:
+all: 128445 301632 302045 523430 72363 
 	/usr/local/bin/node bin/leaderboard.js week01
 
 128445:
