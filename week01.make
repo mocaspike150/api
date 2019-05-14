@@ -1,6 +1,5 @@
-all: 
+all:  leaderboards html_leaderboards
 	/usr/local/bin/node bin/html_leaderboard.js week01
-
 
 html_leaderboards: 128445 72363 
 
