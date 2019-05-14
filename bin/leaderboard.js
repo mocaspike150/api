@@ -20,8 +20,8 @@ const leaderboard = (week, id) => {
       let data = []
       let count = 1
       for(let line of lines) {
-        data.push(count++) 
-        data.push(line.split('\t'))
+        let d = [count++]
+        data.push(d.concat(line.split('\t')))
       }
       fs.writeFile(output, JSON.stringify(data), (err) => {
         if (err) throw err;
