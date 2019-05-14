@@ -1,4 +1,4 @@
-all: 128445 301632 302045 523430 72363 
+all: 
 	/usr/local/bin/node bin/html_leaderboard.js week01
 
 
