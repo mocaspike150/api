@@ -61,3 +61,5 @@ typings/
 .next
 _site
 update.sh
+
+bin/test.js
