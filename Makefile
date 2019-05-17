@@ -5,7 +5,7 @@ update: week01
 geojson:
 	npm run geojson
 
-week01: 
+week01: donation_total
 	make -f week01.make
 
 donation_total:
