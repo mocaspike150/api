@@ -9,4 +9,4 @@ week01: donation_total
 	make -f week01.make
 
 donation_total:
-	node bin/donation_total.js  | tee donation/total.json
+	/usr/local/bin/node bin/donation_total.js  | tee donation/total.json
