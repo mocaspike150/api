@@ -7,3 +7,6 @@ geojson:
 
 week01: 
 	make -f week01.make
+
+donation_total:
+	node bin/donation_total.js  | tee donation/total.json
