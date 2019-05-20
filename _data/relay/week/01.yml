@@ -4,33 +4,33 @@ phase: 1
 teams: 
   - 
     id: 72363
-    mile: 3351
+    mile: 3396
     runners: 248
     donation: 1298
     name: "ChiRunners 驰"
   - 
     id: 128445
-    mile: 5035
+    mile: 5776
     runners: 295
     donation: 0
     name: "BURN Running Club"
   - 
     id: 301632
-    mile: 1359
+    mile: 1384
     runners: 84
     donation: 895
     name: "知足常跑， Patuxent athletic league of striders"
 
   -
     id: 302045 
-    mile: 882
+    mile: 913
     runners: 128
     donation: 300
     name: "YOLO跑步骑车群"
  
   -
     id: 523430
-    mile: 801
+    mile: 808
     runners: 33
     donation: 575
     name: "Flying Fox 78"
