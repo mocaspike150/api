@@ -6,6 +6,7 @@ teams:
     id: 72363
     mile: 3351
     runners: 248
+    donation: 1298
     name: "ChiRunners 驰"
   - 
     id: 128445
@@ -16,16 +17,19 @@ teams:
     id: 301632
     mile: 1359
     runners: 84
+    donation: 895
     name: "知足常跑， Patuxent athletic league of striders"
 
   -
     id: 302045 
     mile: 882
     runners: 128
+    donation: 300
     name: "YOLO跑步骑车群"
  
   -
     id: 523430
     mile: 801
     runners: 33
+    donation: 575
     name: "Flying Fox 78"
