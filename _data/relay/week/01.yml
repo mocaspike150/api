@@ -12,6 +12,7 @@ teams:
     id: 128445
     mile: 5035
     runners: 295
+    donation: 0
     name: "BURN Running Club"
   - 
     id: 301632
