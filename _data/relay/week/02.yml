@@ -6,15 +6,19 @@ teams:
     id: 299365
     mile: 0
     name: "Minnesota Chinese Snow Wolves 明州华人雪狼跑团"
+    timezone: '-0500'
   - 
     id: 155681
     mile: 0
     name: "DASH 达跑团"
+    timezone: '-0500'
   - 
     id: 157594
     mile: 0
     name: "Seattle United Runners (SU Runners) 西雅图SU跑团"
+    timezone: '-0700'
   - 
     id: 234023
     mile: 0
     name: "BEN Running Club 犇"
+    timezone: '-0400'
