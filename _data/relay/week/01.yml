@@ -8,29 +8,32 @@ teams:
     runners: 248
     donation: 1298
     name: "ChiRunners 驰"
+    timezone: '-0500'
   - 
     id: 128445
     mile: 5776
     runners: 295
     donation: 0
     name: "BURN Running Club"
+    timezone: '-0700'
   - 
     id: 301632
     mile: 1384
     runners: 84
     donation: 895
     name: "知足常跑， Patuxent athletic league of striders"
-
+    timezone: '-0400'
   -
     id: 302045 
     mile: 913
     runners: 128
     donation: 300
     name: "YOLO跑步骑车群"
- 
+    timezone: '-0400'
   -
     id: 523430
     mile: 808
     runners: 33
     donation: 575
     name: "Flying Fox 78"
+    timezone: '-0400'
