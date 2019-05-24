@@ -6,16 +6,20 @@ teams:
     id: 197462
     mile: 0
     name: "DEER 鹿跑团"
+    timezone: '-0400'
   - 
     id: 439808
     mile: 0
     name:  "WERun 东奔西跑"
+    timezone: '-0400'
   - 
     id: 479503
     mile: 0
     name: "三头牛跑吧"
+    timezone: '-0500'
   - 
     id: 204946
     mile: 0
     name: "纽约新蜂跑团 NewBee Running Club"
+    timezone: '-0400'
   
