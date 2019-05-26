@@ -6,14 +6,19 @@ teams:
     id: 330129
     mile: 0
     name: "飛狐PHIRE"
+    timezone: '-0400'
   - 
     id: 196102
     mile: 0
     name: "GMCRC"
-  - 
+  - timezone: '-0500'
+  
     id: 327007
     mile: 0
     name: "百駿 Bergen Runners"
+    timezone: '-0400'
+    
   - id: 523602
     mile: 0
     name: "TORCH running"
+    timezone: '-0700'
