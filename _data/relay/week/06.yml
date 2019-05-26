@@ -6,15 +6,19 @@ teams:
     id: 484248
     mile: 0
     name: "巍巍南开"
+    timezone: '-0400'
   - 
     id: 236304
     mile: 0
     name: "大华府蒙郡跑团，MARC"
+    timezone: '-0400'
   - 
     id: 241951 
     mile: 0
     name: "岚山 Misty Mountain Runners"
+    timezone: '-0400'
   - 
     id: 187897
     mile: 0
     name: "crit"
+    timezone: '-0400'
