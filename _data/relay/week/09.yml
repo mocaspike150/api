@@ -6,20 +6,25 @@ teams:
     id: 330129
     mile: 0
     name: "飛狐PHIRE"
+    timezone: '-0400'
   - 
     id: 72363
     mile: 0
     name: "ChiRunners 驰"
+    timezone: '-0500'
   - 
     id: 452045
     mile: 0
     name: "Trail Hoppers 山道蚱蜢"
+    timezone: '-0400'
   -
     id: 302045
     mile: 0
     name: "YOLO跑步骑车群"
+    timezone: '-0400'
     
   -
     id: 523430
     mile: 0
     name: "Flying Fox 78"
+    timezone: '-0400'
