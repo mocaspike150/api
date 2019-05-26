@@ -6,15 +6,19 @@ teams:
     id: 479503
     mile: 0
     name: "三头牛跑吧"
+    timezone: '-0500'
   - 
     id: 301632
     mile: 0
     name: "知足常跑， Patuxent athletic league of striders"
+    timezone: '-0400'
   - 
     id: 234023
     mile: 0
     name: "犇, BEN Running Club"
+    timezone: '-0400'
   - 
     id: 175314
     mile: 0
     name: "勝跑团(Sheng Runners)"
+    timezone: '-0500'
