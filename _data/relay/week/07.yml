@@ -6,15 +6,19 @@ teams:
     id: 147066
     mile: 0
     name: "印跑团（Indy Chinese Runners Club）"
+    timezone: '-0400'
   - 
     id: 481356
     mile: 0
     name: "Nose Hill Running 駜"
+    timezone: '-0600'
   - 
     id: 519388
     mile: 0
     name: "Princeton Running Team 普林长跑队"
+    timezone: '-0400'
   - 
     id: 229749
     mile: 0
     name: "Run100871 北大100871跑团"
+    timezone: '-0400'
