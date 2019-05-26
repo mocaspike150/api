@@ -6,15 +6,19 @@ teams:
     id: 183643
     mile: 0
     name: "Long Running Club"
+    timezone: '-0500'
   - 
     id: 516025
     mile: 0
     name: "北卡蓝嶺飞狐 Flying Foxes"
+    timezone: '-0400'
   - 
     id: 176328
     mile: 0
     name: "车城MIRun"
+    timezone: '-0400'
   - 
     id: 142275
     mile: 0
     name: "RED"
+    timezone: '-0400'
