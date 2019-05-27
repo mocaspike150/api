@@ -4,19 +4,19 @@ phase: 1
 teams:
   - 
     id: 299365
-    mile: 973
+    mile: 1000
     runners: 36
     name: "Minnesota Chinese Snow Wolves 明州华人雪狼跑团"
     timezone: '-0500'
   - 
     id: 155681
-    mile: 2750
-    runners: 143
+    mile: 2913
+    runners: 144
     name: "DASH 达跑团"
     timezone: '-0500'
   - 
     id: 157594
-    mile: 2837
+    mile: 2999
     runners: 170
     name: "Seattle United Runners (SU Runners) 西雅图SU跑团"
     timezone: '-0700'
