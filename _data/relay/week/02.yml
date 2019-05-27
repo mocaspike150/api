@@ -4,7 +4,8 @@ phase: 1
 teams:
   - 
     id: 299365
-    mile: 0
+    mile: 973
+    runners: 36
     name: "Minnesota Chinese Snow Wolves 明州华人雪狼跑团"
     timezone: '-0500'
   - 
