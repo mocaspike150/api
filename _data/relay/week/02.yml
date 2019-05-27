@@ -10,16 +10,19 @@ teams:
     timezone: '-0500'
   - 
     id: 155681
-    mile: 0
+    mile: 2750
+    runners: 143
     name: "DASH 达跑团"
     timezone: '-0500'
   - 
     id: 157594
-    mile: 0
+    mile: 2837
+    runners: 170
     name: "Seattle United Runners (SU Runners) 西雅图SU跑团"
     timezone: '-0700'
   - 
     id: 234023
-    mile: 0
+    mile: 2363
+    runners: 100
     name: "BEN Running Club 犇"
     timezone: '-0400'
