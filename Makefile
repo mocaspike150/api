@@ -1,12 +1,8 @@
-NPM=/usr/local/bin/npm
+NODE=/usr/local/bin/node
 update: 
 	git pull
-	$(NPM) run members
-	$(NPM) run avatar
+	$(NODE) bin/avatar.js
+    $(NODE) bin/members.js | sort -n | tee _data/club/members.yml
 	git add _data
 	git commit -m 'update by Makefile' | true
 	git push
-
-geojson:
-	$(NPM) run geojson
-
