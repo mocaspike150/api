@@ -1,11 +1,12 @@
+NPM=/usr/local/bin/npm
 update: 
 	git pull
-	npm run members
-	npm run avatar
+	$(NPM) run members
+	$(NPM) run avatar
 	git add _data
 	git commit -m 'update by Makefile' | true
 	git push
 
 geojson:
-	npm run geojson
+	$(NPM) run geojson
 
