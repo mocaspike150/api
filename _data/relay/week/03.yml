@@ -4,21 +4,25 @@ phase: 1
 teams:
   - 
     id: 452045
-    mile: 0
+    mile: 2341
+    runners: 67
     name: "Trail Hoppers 山道蚱蜢"
     timezone: '-0400'
   - 
     id: 438046
-    mile: 0
+    mile: 941
+    runners: 66
     name: "Ann-Hua Runners"
     timezone: '-0400'
   - 
     id: 175314
-    mile: 0
+    mile: 2068
+    runners: 54
     name: "勝跑团(Sheng Runners)"
     timezone: '-0500'
   - 
     id: 464836
-    mile: 0
+    mile: 1605
+    runners: 75
     name: "91集训营，91 Running Camp"
     timezone: '-0400'
