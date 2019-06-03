@@ -1,8 +1,9 @@
-const axios = require('axios')
+global.fetch = require('node-fetch')
+const d3 = require('d3')
 const fs = require('fs');
-const jsdom = require('jsdom');
-const sharp = require('sharp');
-const { JSDOM } = jsdom;
+const jsdom = require('jsdom')
+const sharp = require('sharp')
+const { JSDOM } = jsdom
 const api = 'https://www.mocaspike150.org/api'
 const profile = 'club/profile.json'
 
@@ -16,9 +17,8 @@ const members = (id) => {
   .catch((error) => { console.log(error) })
 }
 
-axios.get(`${api}/${profile}`)
-  .then( (res) => {
-    let profile_data = res.data;
+d3.json(`${api}/${profile}`)
+  .then( (profile_data) => {
     for( k in profile_data) {
       members(k)
     }
