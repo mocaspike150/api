@@ -1,9 +1,59 @@
+         'Mozilla/5.0 (darwin) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/15.0.0',
+         'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' },
+        'Accept-Language': 'en',
+        Accept:
+       at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+       at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:57:26)
+      { 'User-Agent':
+     callback: [Function: RP$callback],
+     code: 'ENOTFOUND',
+     code: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     errno: 'ENOTFOUND',
+     forever: true,
+     gzip: true,
+     headers:
+     host: 'www.strava.com',
+     host: 'www.strava.com',
+     hostname: 'www.strava.com',
+     hostname: 'www.strava.com',
+     jar: RequestJar { _jar: [CookieJar] },
+     port: 443 },
+     port: 443 },
+     resolveWithFullResponse: false,
+     simple: true,
+     strictSSL: true,
+     syscall: 'getaddrinfo',
+     syscall: 'getaddrinfo',
+     transform2xxOnly: false },
+     transform: undefined,
+     uri: 'https://www.strava.com/clubs/157594',
+    at ClientRequest.emit (events.js:182:13)
+    at Request.RP$callback [as _callback] (/Users/sam/github/mocaspike150/api/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.emit (events.js:182:13)
+    at Request.onRequestError (/Users/sam/github/mocaspike150/api/node_modules/request/request.js:881:8)
+    at Request.plumbing.callback (/Users/sam/github/mocaspike150/api/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at TLSSocket.emit (events.js:182:13)
+    at TLSSocket.socketErrorListener (_http_client.js:392:9)
+    at emitErrorNT (internal/streams/destroy.js:82:8)
+    at new RequestError (/Users/sam/github/mocaspike150/api/node_modules/request-promise-core/lib/errors.js:14:15)
+    at self.callback (/Users/sam/github/mocaspike150/api/node_modules/request/request.js:185:22)
+   'Error: getaddrinfo ENOTFOUND www.strava.com www.strava.com:443',
+   { Error: getaddrinfo ENOTFOUND www.strava.com www.strava.com:443
+   { Error: getaddrinfo ENOTFOUND www.strava.com www.strava.com:443
+   { encoding: null,
+  cause:
+  error:
+  message:
+  name: 'RequestError',
+  options:
+  response: undefined }
+{ RequestError: Error: getaddrinfo ENOTFOUND www.strava.com www.strava.com:443
 72363: 254 
 128445: 298 
 142275: 95 
 147066: 99 
 155681: 149 
-157594: 173 
 175314: 57 
 176328: 39 
 183643: 155 
