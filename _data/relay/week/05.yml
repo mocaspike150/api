@@ -4,21 +4,25 @@ phase: 1
 teams: 
   - 
     id: 183643
-    mile: 0
+    mile: 1859
+    runners: 155
     name: "Long Running Club"
     timezone: '-0500'
   - 
     id: 516025
-    mile: 0
+    mile: 1031
+    runners: 34 
     name: "北卡蓝嶺飞狐 Flying Foxes"
     timezone: '-0400'
   - 
     id: 176328
-    mile: 0
+    mile: 892
+    runners: 40
     name: "车城MIRun"
     timezone: '-0400'
   - 
     id: 142275
-    mile: 0
+    mile: 1105
+    runners: 95
     name: "RED"
     timezone: '-0400'
