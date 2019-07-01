@@ -4,21 +4,25 @@ phase: 1
 teams:
   - 
     id: 147066
-    mile: 0
+    mile: 1596
+    runners: 111
     name: "印跑团（Indy Chinese Runners Club）"
     timezone: '-0400'
   - 
     id: 481356
-    mile: 0
+    mile: 873
+    runners:61
     name: "Nose Hill Running 駜"
     timezone: '-0600'
   - 
     id: 519388
-    mile: 0
+    mile: 478
+    runners:31
     name: "Princeton Running Team 普林长跑队"
     timezone: '-0400'
   - 
     id: 327007
-    mile: 0
+    mile: 3558
+    runners: 133
     name: "百駿 Bergen Runners"
     timezone: '-0400'
