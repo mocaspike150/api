@@ -5,24 +5,24 @@ teams:
   - 
     id: 330129
     mile: 2350
-    memeber: 89
+    runners: 89
     name: "飛狐PHIRE"
     timezone: '-0400'
   - 
     id: 196102
     mile: 316
-    memeber: 24
+    runners: 24
     name: "GMCRC"
     timezone: '-0500'
   -
     id: 229749
     mile: 3059
-    memeber: 157
+    runners: 157
     name: "Run100871 北大100871跑团"
     timezone: '-0400'
   -
     id: 523602
     mile: 721
-    member: 32
+    runners: 32
     name: "TORCH running"
     timezone: '-0700'
