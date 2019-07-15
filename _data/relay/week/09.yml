@@ -4,32 +4,32 @@ phase: 2
 teams:
   - 
     id: 330129
-    mile: 2989 
+    mile: 3031 
     runners: 90
     name: "飛狐PHIRE"
     timezone: '-0400'
   - 
     id: 72363
-    mile: 3238
+    mile: 3423
     runners: 261
     name: "ChiRunners 驰"
     timezone: '-0500'
   - 
     id: 452045
-    mile: 1665
+    mile: 1667
     runners: 68
     name: "Trail Hoppers 山道蚱蜢"
     timezone: '-0400'
   -
     id: 302045
-    mile: 817
+    mile: 827
     runners: 135
     name: "YOLO跑步骑车群"
     timezone: '-0400'
     
   -
     id: 523430
-    mile: 934
+    mile: 948
     runners: 37
     name: "Flying Fox 78"
     timezone: '-0400'
