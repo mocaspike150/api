@@ -4,18 +4,22 @@ phase: 2
 teams:
   - 
     id: 197462
-    mile: 0
+    mile: 1413
+    runners: 148
     name: "鹿跑团DEER"
   - 
     id: 439808
-    mile: 0
+    mile: 2488
+    runners: 123
     name: "东奔西跑，WERun"
   - 
     id: 519388
-    mile: 0
+    mile: 478
+    runners: 36
     name: "Princeton Running Team 普林长跑队"
   - 
     id: 187897
-    mile: 0
+    mile: 3258
+    runners: 177
     name: CRIT
 
