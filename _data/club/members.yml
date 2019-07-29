@@ -62,7 +62,7 @@
         _controlReleased: true,
         data: [Function],
       [ 'Date',
-      { date: 'Mon, 29 Jul 2019 00:30:31 GMT',
+      { date: 'Mon, 29 Jul 2019 00:52:10 GMT',
         decoder: null,
         defaultEncoding: 'utf8',
         destroyed: false,
@@ -99,7 +99,7 @@
         flowing: true,
         forever: true,
      forever: true,
-         'GET /clubs/301632 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (linux) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/15.1.1\r\nAccept-Language: en\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nhost: www.strava.com\r\naccept-encoding: gzip, deflate\r\nConnection: keep-alive\r\n\r\n',
+         'GET /clubs/236304 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (linux) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/15.1.1\r\nAccept-Language: en\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nhost: www.strava.com\r\naccept-encoding: gzip, deflate\r\nConnection: keep-alive\r\n\r\n',
         getHeader: [Function],
         gzip: true,
      gzip: true,
@@ -121,7 +121,7 @@
         _host: 'www.strava.com',
         _host: 'www.strava.com',
         host: 'www.strava.com',
-        href: 'https://www.strava.com/clubs/301632',
+        href: 'https://www.strava.com/clubs/236304',
         _httpMessage: null,
         _httpMessage: null,
         _httpMessage: null,
@@ -148,7 +148,7 @@
         method: 'GET',
         method: 'GET',
      method: null,
-        'Mon, 29 Jul 2019 00:30:31 GMT',
+        'Mon, 29 Jul 2019 00:52:10 GMT',
          'Mozilla/5.0 (linux) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/15.1.1',
         _multipart: [Multipart],
   name: 'StatusCodeError',
@@ -176,8 +176,8 @@
         parser: null,
         parser: null,
         parser: null,
-        path: '/clubs/301632',
-        path: '/clubs/301632',
+        path: '/clubs/236304',
+        path: '/clubs/236304',
         paused: false,
         _pendingData: null,
         _pendingData: null,
@@ -314,7 +314,7 @@
         _tunnel: [Tunnel],
      upgrade: false,
         upgradeOrConnect: false,
-     uri: 'https://www.strava.com/clubs/301632',
+     uri: 'https://www.strava.com/clubs/236304',
         uri: [Url],
      url: '',
         useChunkedEncodingByDefault: false,
@@ -342,9 +342,9 @@
 204946: 427 
 229749: 159 
 234023: 95 
-236304: 100 
 241951: 181 
 299365: 37 
+301632: 89 
 302045: 139 
 327007: 134 
 330129: 91 
