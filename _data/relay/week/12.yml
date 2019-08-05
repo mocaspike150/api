@@ -4,19 +4,23 @@ phase: 2
 teams:
   - 
     id: 236304
-    mile: 0
+    mile: 1896
+    runners: 101
     name: "大华府蒙郡跑团，MARC"
   - 
     id: 241951
-    mile: 0
+    mile: 4210
+    runners: 190
     name: "岚山 Misty Mountain Runners"
   - 
     id: 176328
-    mile: 0
+    mile: 753
+    runners: 44
     name: "车城MIRun"
   - 
     id: 142275
-    mile: 0
+    mile: 1206
+    runners: 101
     name: "RED"    
     
     
