@@ -4,17 +4,17 @@ phase: 2
 teams:
   - 
     id: 128445
-    mile: 6436
+    mile: 7252
     runners: 302
     name: "BURN Running Club"
   - 
     id: 155681
-    mile: 3769
+    mile: 3802
     runners: 123
     name: "达跑团DASH"
   - 
     id: 327007
-    mile: 3565
+    mile: 3571
     runners: 130
     name: "百駿 Bergen Runners"
   - 
