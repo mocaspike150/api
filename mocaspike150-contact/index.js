@@ -45,8 +45,6 @@ const nodemailer = require('nodemailer');
 const transporter = nodemailer.createTransport(config.mailer);
 
 module.exports = async (req, res) => {
-  console.log(util.inspect(req, { depth: null }));
-  console.log(util.inspect(res, { depth: null }));
 
   let body = [];
   req.on('data', (chunk) => {
