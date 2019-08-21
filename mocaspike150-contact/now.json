@@ -3,5 +3,10 @@
     "name": "mocaspike150-contact",
     "builds": [
         { "src": "*.js", "use": "@now/node" }
-    ]
+    ],
+    "env": {
+      "USER": "@moca_user",
+      "PASS": "@moca_pass",
+      "TO": "@moca_to"
+    }
 }
