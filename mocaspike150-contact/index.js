@@ -21,7 +21,7 @@ config.mailer = {
     <html>
     <p>Hi Renny, </p>
     <p>
-    Someone had sent your a message via <a href="https://mocaspike150.github.io/contact/">https://mocaspike150.github.io/contact/</a>.
+    Someone had sent your a message via <a href="https://www.mocaspike150.org/contactus/">www.mocaspike150.org/contactus/</a>.
     </p>
     <dl style="background: #FFF7ED;padding: 1em;">
       <dt>First</dt>
