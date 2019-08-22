@@ -38,7 +38,7 @@ config.mailer = {
     <p>Moca Spike 150 bot 🤖 </p>
     `
   }),
-  redirect: `https://mocaspike150.github.io/contact/thankyou`
+  redirect: `https://www.mocaspike150.org/contact/thankyou`
 }
 
 const nodemailer = require('nodemailer');
