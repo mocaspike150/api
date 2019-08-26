@@ -4,21 +4,26 @@ phase: 2
 teams:
   - 
     id: 157594
-    mile: 0
+    mile: 2585
+    runners: 183
     name: "西雅图SU跑团, Seattle United Runners (SU Runners)"
   - 
     id: 481356
-    mile: 0
+    mile: 970
+    runners: 66
     name: "Nose Hill Running 駜"
   - 
     id: 516025
-    mile: 0
+    mile: 1099
+    runners: 35
     name: "北卡蓝嶺飞狐 Flying Foxes"
   - 
     id: 196102
-    mile: 0
+    mile: 407
+    runners: 26
     name: "GMCRC"
   - 
     id: 452667
-    mile: 0
+    mile: 2411
+    runners: 103
     name: "威跑团" 
