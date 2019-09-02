@@ -4,18 +4,22 @@ phase: 2
 teams:
   - 
     id: 147066
-    mile: 0
-    name: "  "
+    mile: 1877
+    runners: 114
+    name: "Indy Chinese Runners"
   - 
     id: 438046
-    mile: 0
+    mile: 1466
+    runners: 76
     name: "Ann-Hua Runners"
   - 
     id: 204946
-    mile: 0
+    mile: 3309
+    runners: 436
     name: "纽约新蜂跑团 NewBee Running Club"
   - 
     id: 229749
-    mile: 0
+    mile: 3261
+    runners: 166
     name: "Club 100871 北大100871跑团"
 
