@@ -1,4 +1,4 @@
-NODE=`which node`
+NODE=/usr/local/bin/node
 update: 
 	git pull
 	$(NODE) bin/avatar.js
