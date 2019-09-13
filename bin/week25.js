@@ -33,8 +33,7 @@ fetch(api).then(res => res.text())
   - 
     id: ${id}
     mile: 0
-    name: "${name}"
-`
+    name: "${name}"`
           }
        }
        console.log(output)
