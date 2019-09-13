@@ -1,10 +1,54 @@
-
 start: 2019-10-28                                     
 end: 2019-11-03
 phase: 3
 teams:
   - 
-    id: 513442
+    id: 327007
     mile: 0
-    name: "MOCA Spike 150"
-  
+    name: 'Bergen Runners'
+
+  - 
+    id: 452045
+    mile: 0
+    name: 'Trail Hoppers'
+
+  - 
+    id: 516025
+    mile: 0
+    name: 'NC Blue Ridge Flying Foxes'
+
+  - 
+    id: 241951
+    mile: 0
+    name: 'Misty Mountain Runners'
+
+  - 
+    id: 
+    mile: 0
+    name: ''
+
+  - 
+    id: 439808
+    mile: 0
+    name: 'WERun'
+
+  - 
+    id: 72363
+    mile: 0
+    name: 'ChiRunners'
+
+  - 
+    id: 183643
+    mile: 0
+    name: 'Long Running Club'
+
+  - 
+    id: 301632
+    mile: 0
+    name: 'PALS'
+
+  - 
+    id: 330129
+    mile: 0
+    name: 'PHIRE Runners'
+
