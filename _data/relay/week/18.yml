@@ -4,17 +4,21 @@ phase: 3
 teams:
   - 
     id: 197462
-    mile: 0
+    mile: 1591
+    runners: 159
     name: "鹿跑团DEER"
   - 
     id: 479503
-    mile: 0
+    mile: 424
+    runners: 30
     name: "三头牛跑吧"
   - 
     id: 236304
-    mile: 0
+    mile: 1520
+    runners: 101
     name: "大华府蒙郡跑团，MARC"
   - 
     id: 234023
-    mile: 0
+    mile: 1176
+    runners: 3012
     name: "犇, BEN Running Club"
