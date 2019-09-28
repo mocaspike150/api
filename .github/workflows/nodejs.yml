@@ -20,7 +20,6 @@ jobs:
         node -v
         npm -v
         npm install
-        npm list
         make
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

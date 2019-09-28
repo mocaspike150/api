@@ -13,4 +13,4 @@ pull:
 
 build:
 	node bin/avatar.js
-	node bin/members.js | sort -n | tee _data/club/members.yml
+	node bin/members.js | sort -n > _data/club/members.yml
