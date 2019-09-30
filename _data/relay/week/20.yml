@@ -4,16 +4,21 @@ phase: 3
 teams:
   - 
     id: 72363
-    mile: 0
-    name: "  "
+    mile: 3114
+    runners: 276
+    name: "驰 Chi Runners"
   - 
     id: 439808
-    mile: 0
+    mile: 3193
+    runners: 146
     name: "东奔西跑，WERun"
   - 
     id: 301632
-    mile: 0
+    mile: 1404
+    runners: 89
     name: "知足常跑， Patuxent athletic league of striders"
+    
   - id: 523602
-    mile: 0
+    mile: 722
+    runners: 44
     name: "TORCH running"
