@@ -14,3 +14,4 @@ pull:
 build:
 	node bin/avatar.js
 	node bin/members.js | sort -n > _data/club/members.yml
+	node bin/jsonify.js _data/club/members.yml  > club/members.json 
