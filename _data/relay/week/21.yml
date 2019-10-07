@@ -4,17 +4,21 @@ phase: 3
 teams:
   - 
     id: 204946
-    mile: 0
-    name: "  "
+    mile: 3812
+    runners: 451 
+    name: "NewBee Running Club"
   - 
     id: 241951
-    mile: 0
+    mile: 4584
+    runners: 197
     name: "岚山 Misty Mountain Runners"
   - 
     id: 176328
-    mile: 0
+    mile: 819 
+    runners: 44
     name: "车城MIRun"
   - 
     id: 175314
-    mile: 0
+    mile: 1749 
+    runners: 55
     name: "勝跑团(Sheng Runners)"
