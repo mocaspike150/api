@@ -4,17 +4,17 @@ phase: 3
 teams:
   - 
     id: 484248
-    mile: 2605
+    mile: 1619
     runners: 75
     name: "巍巍南开"
   - 
     id: 155681
-    mile: 4885
+    mile: 3035
     runners: 117
     name: "达跑团DASH"
   - 
     id: 438046
-    mile: 1970
+    mile: 1224
     runners: 82
     name: "Ann-Hua Runners"
   - 
@@ -24,6 +24,6 @@ teams:
     name: "Run100871 北大100871跑团"
   -
     id: 523430
-    mile: 1564
+    mile: 972 
     runners: 49
     name: "Flying Fox 78"
