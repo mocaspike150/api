@@ -4,21 +4,26 @@ phase: 3
 teams:
   - 
     id: 327007
-    mile: 0
+    mile: 2477
+    runners: 142
     name: "百駿 Bergen Runners"
   - 
     id: 183643
-    mile: 0
+    mile: 1923
+    runners: 162
     name: "Long Running Club"
   - 
     id: 196102
-    mile: 0
+    mile: 291
+    runners: 26
     name: "GMCRC"
   -
     id: 519388
-    mile: 0
+    mile: 633
+    runners: 53
     name: “普林長跑” 
   - 
     id: 452667
-    mile: 0
+    mile: 1537
+    runners: 111
     name: "威跑团"
