@@ -1,20 +1,33 @@
-start: 2019-10-21                                     
-end: 2019-10-27
-phase: 3
+start: 2019-10-28                                     
+end: 2019-11-02
 teams:
   - 
-    id: 147066
-    mile: 0
-    name: "印跑团（Indy Chinese Runners Club"
+    id: 327007
+    name: "百駿 Bergen Runners"
   - 
-    id: 128445
-    mile: 0
-    name: "BURN Running Club"
+    id: 452045
+    name: "Trail Hoppers 山道蚱蜢"
   - 
-    id: 142275
-    mile: 0
-    name: "RED" 
-  -
-    id: 302045
-    mile: 0
-    name: "YOLO跑步骑车群"
+    id: 516025
+    name: "北卡蓝嶺飞狐 Flying Foxes"
+  - 
+    id: 241951
+    name: "岚山 Misty Mountain Runners"
+  - 
+    id: 176328
+    name: "车城MIRun"
+  - 
+    id: 439808
+    name: "东奔西跑，WERun"
+  - 
+    id: 72363
+    name: "驰 Chi Runners"
+  - 
+    id: 452667
+    name: "威跑团"
+  - 
+    id: 183643
+    name: "Long Running Club"
+  - 
+    id: 301632
+    name: "知足常跑， Patuxent athletic league of striders"
