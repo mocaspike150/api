@@ -1,3 +1,52 @@
+      'Accept-Language': 'en',
+      'User-Agent': 'Mozilla/5.0 (darwin) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/15.1.1',
+      Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1128:14) {
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1128:14) {
+    address: '54.87.24.115',
+    address: '54.87.24.115',
+    at ClientRequest.emit (events.js:210:5)
+    at Request.RP$callback [as _callback] (/Users/runner/runners/2.159.1/work/api/api/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.emit (events.js:210:5)
+    at Request.onRequestError (/Users/runner/runners/2.159.1/work/api/api/node_modules/request/request.js:881:8)
+    at Request.plumbing.callback (/Users/runner/runners/2.159.1/work/api/api/node_modules/request-promise-core/lib/plumbing.js:87:29)
+    at TLSSocket.emit (events.js:210:5)
+    at TLSSocket.socketErrorListener (_http_client.js:406:9)
+    at emitErrorNT (internal/streams/destroy.js:92:8) {
+    at new RequestError (/Users/runner/runners/2.159.1/work/api/api/node_modules/request-promise-core/lib/errors.js:14:15)
+    at self.callback (/Users/runner/runners/2.159.1/work/api/api/node_modules/request/request.js:185:22)
+    callback: [Function: RP$callback],
+    code: 'ETIMEDOUT',
+    code: 'ETIMEDOUT',
+    encoding: null,
+    errno: 'ETIMEDOUT',
+    errno: 'ETIMEDOUT',
+    forever: true,
+    gzip: true,
+    headers: {
+    jar: RequestJar { _jar: [CookieJar] },
+    port: 443
+    port: 443
+    resolveWithFullResponse: false,
+    simple: true,
+    strictSSL: true,
+    syscall: 'connect',
+    syscall: 'connect',
+    transform2xxOnly: false
+    transform: undefined,
+    uri: 'https://www.strava.com/clubs/330129',
+    },
+  cause: Error: connect ETIMEDOUT 54.87.24.115:443
+  error: Error: connect ETIMEDOUT 54.87.24.115:443
+  message: 'Error: connect ETIMEDOUT 54.87.24.115:443',
+  name: 'RequestError',
+  options: {
+  response: undefined
+  },
+  },
+  },
+RequestError: Error: connect ETIMEDOUT 54.87.24.115:443
+}
 72363: 278 
 128445: 308 
 142275: 109 
@@ -19,7 +68,6 @@
 301632: 89 
 302045: 160 
 327007: 142 
-330129: 95 
 438046: 83 
 439808: 148 
 452045: 80 
