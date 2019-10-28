@@ -4,21 +4,21 @@ phase: 3
 teams:
   - 
     id: 147066
-    mile: 1009
+    mile: 1011
     runners: 114
     name: "印跑团（Indy Chinese Runners Club"
   - 
     id: 128445
-    mile: 5525
+    mile: 6960
     runners: 308
     name: "BURN Running Club"
   - 
     id: 142275
-    mile: 1267
+    mile: 1268
     runners: 108
     name: "RED" 
   -
     id: 302045
-    mile: 1180
+    mile: 1186
     runners: 155
     name: "YOLO跑步骑车群"
