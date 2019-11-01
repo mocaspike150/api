@@ -1,50 +1,3 @@
-      'Accept-Language': 'en',
-      'User-Agent': 'Mozilla/5.0 (darwin) AppleWebKit/537.36 (KHTML, like Gecko) jsdom/15.1.1',
-      Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
-      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26) {
-      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26) {
-    at ClientRequest.emit (events.js:210:5)
-    at Request.RP$callback [as _callback] (/Users/runner/runners/2.159.2/work/api/api/node_modules/request-promise-core/lib/plumbing.js:46:31)
-    at Request.emit (events.js:210:5)
-    at Request.onRequestError (/Users/runner/runners/2.159.2/work/api/api/node_modules/request/request.js:881:8)
-    at Request.plumbing.callback (/Users/runner/runners/2.159.2/work/api/api/node_modules/request-promise-core/lib/plumbing.js:87:29)
-    at TLSSocket.emit (events.js:210:5)
-    at TLSSocket.socketErrorListener (_http_client.js:406:9)
-    at emitErrorNT (internal/streams/destroy.js:92:8) {
-    at new RequestError (/Users/runner/runners/2.159.2/work/api/api/node_modules/request-promise-core/lib/errors.js:14:15)
-    at self.callback (/Users/runner/runners/2.159.2/work/api/api/node_modules/request/request.js:185:22)
-    callback: [Function: RP$callback],
-    code: 'ENOTFOUND',
-    code: 'ENOTFOUND',
-    encoding: null,
-    errno: 'ENOTFOUND',
-    errno: 'ENOTFOUND',
-    forever: true,
-    gzip: true,
-    headers: {
-    hostname: 'www.strava.com'
-    hostname: 'www.strava.com'
-    jar: RequestJar { _jar: [CookieJar] },
-    resolveWithFullResponse: false,
-    simple: true,
-    strictSSL: true,
-    syscall: 'getaddrinfo',
-    syscall: 'getaddrinfo',
-    transform2xxOnly: false
-    transform: undefined,
-    uri: 'https://www.strava.com/clubs/302045',
-    },
-  cause: Error: getaddrinfo ENOTFOUND www.strava.com
-  error: Error: getaddrinfo ENOTFOUND www.strava.com
-  message: 'Error: getaddrinfo ENOTFOUND www.strava.com',
-  name: 'RequestError',
-  options: {
-  response: undefined
-  },
-  },
-  },
-RequestError: Error: getaddrinfo ENOTFOUND www.strava.com
-}
 72363: 278 
 128445: 309 
 142275: 110 
@@ -64,6 +17,7 @@ RequestError: Error: getaddrinfo ENOTFOUND www.strava.com
 241951: 203 
 299365: 44 
 301632: 89 
+302045: 161 
 327007: 142 
 330129: 96 
 438046: 83 
